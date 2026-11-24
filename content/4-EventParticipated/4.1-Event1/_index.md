@@ -1,126 +1,160 @@
 ---
 title: "Event 1"
-date: 2024-01-01
+date: 2026-09-29
 weight: 1
 chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** into your report, including this warning.
-{{% /notice %}}
+# AWS Cloud & AI Day Vietnam 2026 – Watch Party
 
-# Summary Report: “GenAI-powered App-DB Modernization workshop”
+## 1. Event Information
 
-### Event Objectives
+| Information | Details |
+|---|---|
+| Event name | AWS Cloud & AI Day Vietnam 2026 – Watch Party |
+| Date | September 29, 2026 |
+| Location | AWS office, Ho Chi Minh City |
+| Main event organizer | Amazon Web Services (AWS) |
+| Format | Watch Party |
+| Role | Attendee |
+| Main topics | Cloud Computing, Generative AI, Agentic AI, and AI-powered Software Development |
+| Official website | [AWS Cloud and AI Day](https://aws.amazon.com/vi/events/cloud-day-hanoi/) |
 
-- Share best practices in modern application design
-- Introduce Domain-Driven Design (DDD) and event-driven architecture
-- Provide guidance on selecting the right compute services
-- Present AI tools to support the development lifecycle
+The AWS Cloud & AI Day Vietnam 2026 – Watch Party provided an opportunity for the technology community in Ho Chi Minh City to follow the AWS Cloud and AI Day event in Hanoi and learn about developments in cloud computing and artificial intelligence.
 
-### Speakers
+## 2. Event Objectives
 
-- **Jignesh Shah** – Director, Open Source Databases
-- **Erica Liu** – Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** – Assc. Specialist SA, Serverless Amazon Web Services
+- Stay informed about developments in cloud computing and artificial intelligence.
+- Explore the ecosystem of AWS services, technologies, and tools.
+- Discover potential applications of Generative AI and Agentic AI.
+- Learn about AI-assisted software development tools, particularly Kiro.
+- Explore approaches to building and deploying cloud-based systems.
+- Create opportunities for knowledge exchange within the technology community.
 
-### Key Highlights
+## 3. Speakers and Program
 
-#### Identifying the drawbacks of legacy application architecture
+The Ho Chi Minh City Watch Party took place on the same day as the main event in Hanoi and enabled the local technology community to follow discussions about AWS, Cloud, and AI. The local speaker lineup and detailed session times have not been fully verified.
 
-- Long product release cycles → Lost revenue/missed opportunities  
-- Inefficient operations → Reduced productivity, higher costs  
-- Non-compliance with security regulations → Security breaches, loss of reputation  
+## 4. Key Highlights
 
-#### Transitioning to modern application architecture – Microservices
+### 4.1. Cloud Computing
 
-Migrating to a modular system — each function is an **independent service** communicating via **events**, built on three core pillars:
+Cloud computing plays an important role in digital transformation and the development of modern technology systems. AWS provides compute resources, storage, databases, and AI services that developers can use without directly managing all of the underlying physical infrastructure.
 
-- **Queue Management**: Handle asynchronous tasks  
-- **Caching Strategy**: Optimize performance  
-- **Message Handling**: Flexible inter-service communication  
+Key benefits include flexible scaling, resource cost optimization, security management capabilities, faster application deployment, and integration with AI and Machine Learning.
 
-#### Domain-Driven Design (DDD)
+### 4.2. Generative AI
 
-- **Four-step method**: Identify domain events → arrange timeline → identify actors → define bounded contexts  
-- **Bookstore case study**: Demonstrates real-world DDD application  
-- **Context mapping**: 7 patterns for integrating bounded contexts  
+Generative AI can generate new content, such as text, images, audio, and source code, based on user requests. It has potential applications in software development, data analysis, workflow automation, and intelligent applications.
 
-#### Event-Driven Architecture
+### 4.3. Agentic AI
 
-- **3 integration patterns**: Publish/Subscribe, Point-to-point, Streaming  
-- **Benefits**: Loose coupling, scalability, resilience  
-- **Sync vs async comparison**: Understanding the trade-offs  
+Agentic AI extends the capabilities of Generative AI by enabling systems to plan, use tools, and perform complex tasks with a degree of autonomy.
 
-#### Compute Evolution
+**Illustrative workflow:**
 
-- **Shared Responsibility Model**: EC2 → ECS → Fargate → Lambda  
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value  
-- **Functions vs Containers**: Criteria for appropriate choice  
+1. User Request: receive the user's request.
+2. AI Agent: analyze the request and its context.
+3. Planning: develop an execution plan.
+4. Tools & AWS Services: use tools, APIs, and data.
+5. Execution: perform and check the task.
+6. Result: return the outcome.
 
-#### Amazon Q Developer
+Agentic AI can be applied to software development, data analysis, customer support, and business workflow automation.
 
-- **SDLC automation**: From planning to maintenance  
-- **Code transformation**: Java upgrade, .NET modernization  
-- **AWS Transform agents**: VMware, Mainframe, .NET migration  
+### 4.4. Kiro – AI-assisted Software Development
 
-### Key Takeaways
+Kiro is a software development tool with integrated AI agents that supports requirements analysis, system design, coding, and testing. Its **Spec-driven Development** approach helps transform ideas into structured requirements and implementation tasks.
 
-#### Design Mindset
+**Development workflow with Kiro:**
 
-- **Business-first approach**: Always start from the business domain, not the technology  
-- **Ubiquitous language**: Importance of a shared vocabulary between business and tech teams  
-- **Bounded contexts**: Identifying and managing complexity in large systems  
+1. Project Idea: define the project concept.
+2. `requirements.md`: analyze and specify requirements.
+3. `design.md`: design the software architecture.
+4. `tasks.md`: break down implementation tasks.
+5. Implementation: develop the required functionality.
+6. Testing & Validation: test and evaluate the results.
 
-#### Technical Architecture
+| Feature | Purpose |
+|---|---|
+| Specs | Analyze requirements and plan development |
+| Agent Hooks | Automate repetitive tasks |
+| Steering | Guide AI according to project rules |
+| MCP | Connect AI to external tools, APIs, and data sources |
+| AI Coding | Assist with writing and modifying source code |
+| Testing | Assist with creating and running tests |
 
-- **Event storming technique**: Practical method for modeling business processes  
-- Use **event-driven communication** instead of synchronous calls  
-- **Integration patterns**: When to use sync, async, pub/sub, streaming  
-- **Compute spectrum**: Criteria for choosing between VM, containers, and serverless  
+Kiro can help developers improve productivity, manage requirements more effectively, and reduce repetitive work. AI-assisted development should still be combined with quality checks and developer review.
 
-#### Modernization Strategy
+Source: [Kiro Documentation](https://kiro.dev/docs/).
 
-- **Phased approach**: No rushing — follow a clear roadmap  
-- **7Rs framework**: Multiple modernization paths depending on the application  
-- **ROI measurement**: Cost reduction + business agility  
+### 4.5. AWS Service Ecosystem
 
-### Applying to Work
+The following AWS services represent potential areas for further study and application after the event; they are not a list of services I personally used during the Watch Party.
 
-- **Apply DDD** to current projects: Event storming sessions with business teams  
-- **Refactor microservices**: Use bounded contexts to define service boundaries  
-- **Implement event-driven patterns**: Replace some sync calls with async messaging  
-- **Adopt serverless**: Pilot AWS Lambda for suitable use cases  
-- **Try Amazon Q Developer**: Integrate into the dev workflow to boost productivity  
+| Service | Purpose |
+|---|---|
+| Amazon EC2 | Provides virtual servers |
+| Amazon S3 | Stores data |
+| Amazon Bedrock | Builds Generative AI applications |
+| Amazon SageMaker | Develops and deploys Machine Learning models |
+| AWS Lambda | Runs code using a serverless model |
+| Amazon API Gateway | Creates and manages APIs |
+| Amazon EKS | Deploys and manages Kubernetes |
+| AWS IAM | Manages identities and access permissions |
 
-### Event Experience
+These services can be combined to build scalable software systems with AI capabilities.
 
-Attending the **“GenAI-powered App-DB Modernization”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
+## 5. Key Takeaways
 
-#### Learning from highly skilled speakers
-- Experts from AWS and major tech organizations shared **best practices** in modern application design.  
-- Through real-world case studies, I gained a deeper understanding of applying **DDD** and **Event-Driven Architecture** to large projects.  
+### Technical Knowledge
 
-#### Hands-on technical exposure
-- Participating in **event storming** sessions helped me visualize how to **model business processes** into domain events.  
-- Learned how to **split microservices** and define **bounded contexts** to manage large-system complexity.  
-- Understood trade-offs between **synchronous and asynchronous communication** and integration patterns like **pub/sub, point-to-point, streaming**.  
+Gained a clearer understanding of the role of cloud computing and artificial intelligence in software development and explored the concepts of Generative AI, Agentic AI, and their potential practical applications.
 
-#### Leveraging modern tools
-- Explored **Amazon Q Developer**, an AI tool for SDLC support from planning to maintenance.  
-- Learned to **automate code transformation** and pilot serverless with **AWS Lambda** to improve productivity.  
+### Software Development Mindset
 
-#### Networking and discussions
-- The workshop offered opportunities to exchange ideas with experts, peers, and business teams, enhancing the **ubiquitous language** between business and tech.  
-- Real-world examples reinforced the importance of the **business-first approach** rather than focusing solely on technology.  
+Recognized the importance of requirements analysis, architecture design, planning, and testing throughout the software development process.
 
-#### Lessons learned
-- Applying DDD and event-driven patterns reduces **coupling** while improving **scalability** and **resilience**.  
-- Modernization requires a **phased approach** with **ROI measurement**; rushing the process can be risky.  
-- AI tools like Amazon Q Developer can significantly **boost productivity** when integrated into the current workflow.  
+### AI-assisted Development Tools
 
-#### Some event photos
-*Add your event photos here*  
+Learned about Kiro and how AI can support coding, requirements management, task automation, and project development efficiency.
 
-> Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration.
+### Professional Development
+
+Expanded my areas of interest in cloud computing, artificial intelligence, Machine Learning, and AI-assisted software development.
+
+## 6. Applying to Work
+
+| Knowledge area | Potential application |
+|---|---|
+| Cloud Computing | Deploy websites, backends, and APIs |
+| Generative AI | Build AI-enabled applications |
+| Agentic AI | Develop intelligent automation systems |
+| Kiro | Support project analysis, design, and coding |
+| Machine Learning | Develop data analysis and prediction systems |
+| AWS Services | Deploy application infrastructure |
+| Cloud Security | Improve system security |
+| Spec-driven Development | Structure the software development process |
+
+This knowledge can be applied to future academic, research, and software development projects, particularly projects combining AI and cloud computing.
+
+## 7. Event Experience and Personal Reflection
+
+Through the AWS Cloud & AI Day Vietnam 2026 – Watch Party, I had the opportunity to gain more knowledge about artificial intelligence (AI), cloud computing, and the services and tools provided by AWS.
+
+I was particularly interested in Kiro, an AI-integrated tool that supports developers throughout the software development process. The event helped me better understand the potential of AI and Cloud in information technology and broadened my interest in exploring and applying these technologies to future academic and professional projects.
+
+It was a valuable experience that helped me stay informed about technology developments and motivated me to continue learning and developing my professional skills.
+
+## 8. Event Photos
+
+![Evidence of attending the AWS Cloud and AI Day Watch Party in Ho Chi Minh City](/images/events/event1/event1-watch-party.jpg)
+
+*Figure 1. Attending AWS Cloud & AI Day Vietnam 2026 – Watch Party at the AWS office in Ho Chi Minh City on September 29, 2026. Source: personal photograph.*
+
+## 9. References
+
+- [AWS Cloud and AI Day](https://aws.amazon.com/vi/events/cloud-day-hanoi/)
+- [Kiro Documentation](https://kiro.dev/docs/)
+- [AWS Documentation](https://docs.aws.amazon.com/)

@@ -1,125 +1,160 @@
 ---
 title: "Event 1"
-date: 2024-01-01
+date: 2026-09-29
 weight: 1
 chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+# AWS Cloud & AI Day Vietnam 2026 – Watch Party
 
-# Bài thu hoạch “GenAI-powered App-DB Modernization workshop”
+## 1. Thông tin sự kiện
 
-### Mục Đích Của Sự Kiện
+| Thông tin | Nội dung |
+|---|---|
+| Tên sự kiện | AWS Cloud & AI Day Vietnam 2026 – Watch Party |
+| Ngày tổ chức | 29/09/2026 |
+| Địa điểm tham dự | Văn phòng AWS tại TP. Hồ Chí Minh |
+| Đơn vị tổ chức sự kiện chính | Amazon Web Services (AWS) |
+| Hình thức | Watch Party |
+| Vai trò | Người tham dự (Attendee) |
+| Chủ đề chính | Cloud Computing, Generative AI, Agentic AI và AI-powered Software Development |
+| Website chính thức | [AWS Cloud and AI Day](https://aws.amazon.com/vi/events/cloud-day-hanoi/) |
 
-- Chia sẻ best practices trong thiết kế ứng dụng hiện đại
-- Giới thiệu phương pháp DDD và event-driven architecture
-- Hướng dẫn lựa chọn compute services phù hợp
-- Giới thiệu công cụ AI hỗ trợ development lifecycle
+AWS Cloud & AI Day Vietnam 2026 – Watch Party là chương trình theo dõi sự kiện AWS Cloud and AI Day tại Hà Nội, tạo cơ hội cho cộng đồng công nghệ tại TP. Hồ Chí Minh tiếp cận những kiến thức và xu hướng mới về điện toán đám mây và trí tuệ nhân tạo.
 
-### Danh Sách Diễn Giả
+## 2. Mục đích của sự kiện
 
-- **Jignesh Shah** - Director, Open Source Databases
-- **Erica Liu** - Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** - Assc. Specialist SA, Serverless Amazon Web Services
+- Cập nhật xu hướng phát triển Cloud Computing và Artificial Intelligence.
+- Tìm hiểu hệ sinh thái dịch vụ, công nghệ và công cụ do AWS cung cấp.
+- Khám phá tiềm năng ứng dụng Generative AI và Agentic AI trong thực tế.
+- Tìm hiểu các công cụ tích hợp AI hỗ trợ phát triển phần mềm, đặc biệt là Kiro.
+- Tiếp cận các phương pháp xây dựng và triển khai hệ thống trên nền tảng điện toán đám mây.
+- Tạo cơ hội kết nối, trao đổi kiến thức với cộng đồng công nghệ.
 
-### Nội Dung Nổi Bật
+## 3. Diễn giả và chương trình
 
-#### Đưa ra các ảnh hưởng tiêu cực của kiến trúc ứng dụng cũ
+Watch Party tại TP.HCM diễn ra cùng ngày với sự kiện chính tại Hà Nội, giúp cộng đồng công nghệ theo dõi các nội dung chia sẻ về AWS, Cloud và AI. Danh sách diễn giả trực tiếp tại Watch Party và khung giờ chi tiết chưa được xác minh đầy đủ.
 
-- Thời gian release sản phẩm lâu → Mất doanh thu/bỏ lỡ cơ hội
-- Hoạt động kém hiệu quả → Mất năng suất, tốn kém chi phí
-- Không tuân thủ các quy định về bảo mật → Mất an ninh, uy tín
+## 4. Nội dung và kiến thức nổi bật
 
-#### Chuyển đổi sang kiến trúc ứng dụng mới - Microservice Architecture
+### 4.1. Cloud Computing – Điện toán đám mây
 
-Chuyển đổi thành hệ thống modular – từng chức năng là một **dịch vụ độc lập** giao tiếp với nhau qua **sự kiện** với 3 trụ cột cốt lõi:
+Điện toán đám mây đóng vai trò quan trọng trong quá trình chuyển đổi số và phát triển hệ thống công nghệ hiện đại. AWS cung cấp tài nguyên tính toán, lưu trữ, cơ sở dữ liệu và dịch vụ AI mà nhà phát triển có thể sử dụng mà không cần trực tiếp quản lý toàn bộ cơ sở hạ tầng vật lý.
 
-- **Queue Management**: Xử lý tác vụ bất đồng bộ
-- **Caching Strategy:** Tối ưu performance
-- **Message Handling:** Giao tiếp linh hoạt giữa services
+Những lợi ích nổi bật gồm khả năng mở rộng linh hoạt, tối ưu chi phí sử dụng tài nguyên, hỗ trợ quản lý bảo mật, triển khai ứng dụng nhanh và tích hợp AI, Machine Learning.
 
-#### Domain-Driven Design (DDD)
+### 4.2. Generative AI – Trí tuệ nhân tạo tạo sinh
 
-- **Phương pháp 4 bước**: Xác định domain events → sắp xếp timeline → identify actors → xác định bounded contexts
-- **Case study bookstore**: Minh họa cách áp dụng DDD thực tế
-- **Context mapping**: 7 patterns tích hợp bounded contexts
+Generative AI có khả năng tạo ra nội dung mới như văn bản, hình ảnh, âm thanh và mã nguồn dựa trên yêu cầu của người dùng. Công nghệ này có tiềm năng ứng dụng trong phát triển phần mềm, phân tích dữ liệu, tự động hóa công việc và xây dựng các ứng dụng thông minh.
 
-#### Event-Driven Architecture
+### 4.3. Agentic AI – Hệ thống AI tác nhân
 
-- **3 patterns tích hợp**: Publish/Subscribe, Point-to-point, Streaming
-- **Lợi ích**: Loose coupling, scalability, resilience
-- **So sánh sync vs async**: Hiểu rõ trade-offs (sự đánh đổi)
+Agentic AI mở rộng khả năng của Generative AI bằng việc cho phép hệ thống lập kế hoạch, sử dụng công cụ và thực hiện các nhiệm vụ phức tạp với mức độ tự chủ nhất định.
 
-#### Compute Evolution
+**Quy trình hoạt động minh họa:**
 
-- **Shared Responsibility Model**: Từ EC2 → ECS → Fargate → Lambda
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value
-- **Functions vs Containers**: Criteria lựa chọn phù hợp
+1. User Request: tiếp nhận yêu cầu của người dùng.
+2. AI Agent: phân tích yêu cầu và ngữ cảnh.
+3. Planning: xây dựng kế hoạch thực hiện.
+4. Tools & AWS Services: sử dụng công cụ, API và dữ liệu.
+5. Execution: thực hiện và kiểm tra nhiệm vụ.
+6. Result: trả về kết quả.
 
-#### Amazon Q Developer
+Agentic AI có thể được ứng dụng trong phát triển phần mềm, phân tích dữ liệu, hỗ trợ khách hàng và tự động hóa quy trình nghiệp vụ.
 
-- **SDLC automation**: Từ planning đến maintenance
-- **Code transformation**: Java upgrade, .NET modernization
-- **AWS Transform agents**: VMware, Mainframe, .NET migration
+### 4.4. Kiro – Công cụ phát triển phần mềm tích hợp AI
 
-### Những Gì Học Được
+Kiro là công cụ phát triển phần mềm tích hợp AI Agent, hỗ trợ lập trình viên phân tích yêu cầu, thiết kế hệ thống, viết mã nguồn và kiểm thử. Điểm nổi bật của Kiro là phương pháp **Spec-driven Development**, giúp chuyển đổi ý tưởng thành các yêu cầu và nhiệm vụ triển khai có cấu trúc rõ ràng.
 
-#### Tư Duy Thiết Kế
+**Quy trình phát triển phần mềm với Kiro:**
 
-- **Business-first approach**: Luôn bắt đầu từ business domain, không phải technology
-- **Ubiquitous language**: Importance của common vocabulary giữa business và tech teams
-- **Bounded contexts**: Cách identify và manage complexity trong large systems
+1. Project Idea: xác định ý tưởng dự án.
+2. `requirements.md`: phân tích và xác định yêu cầu.
+3. `design.md`: thiết kế kiến trúc phần mềm.
+4. `tasks.md`: phân chia nhiệm vụ triển khai.
+5. Implementation: lập trình và xây dựng chức năng.
+6. Testing & Validation: kiểm thử và đánh giá kết quả.
 
-#### Kiến Trúc Kỹ Thuật
+| Tính năng | Chức năng |
+|---|---|
+| Specs | Phân tích yêu cầu và lập kế hoạch phát triển |
+| Agent Hooks | Tự động hóa các nhiệm vụ lặp lại |
+| Steering | Định hướng AI theo quy tắc của dự án |
+| MCP | Kết nối AI với công cụ, API và nguồn dữ liệu bên ngoài |
+| AI Coding | Hỗ trợ viết và chỉnh sửa mã nguồn |
+| Testing | Hỗ trợ xây dựng và thực hiện kiểm thử |
 
-- **Event storming technique**: Phương pháp thực tế để mô hình hóa quy trình kinh doanh
-- Sử dụng **Event-driven communication** thay vì synchronous calls
-- **Integration patterns**: Hiểu khi nào dùng sync, async, pub/sub, streaming
-- **Compute spectrum**: Criteria chọn từ VM → containers → serverless
+Kiro có thể giúp lập trình viên nâng cao năng suất, quản lý yêu cầu dự án tốt hơn và giảm bớt các công việc lặp lại. Việc sử dụng AI vẫn cần được kết hợp với kiểm tra chất lượng và đánh giá của người phát triển.
 
-#### Chiến Lược Hiện Đại Hóa
+Nguồn: [Kiro Documentation](https://kiro.dev/docs/).
 
-- **Phased approach**: Không rush, phải có roadmap rõ ràng
-- **7Rs framework**: Nhiều con đường khác nhau tùy thuộc vào đặc điểm của mỗi ứng dụng
-- **ROI measurement**: Cost reduction + business agility
+### 4.5. Các dịch vụ trong hệ sinh thái AWS
 
-### Ứng Dụng Vào Công Việc
+Các dịch vụ dưới đây là những hướng nghiên cứu và ứng dụng có thể tìm hiểu thêm sau sự kiện, không phải danh sách các dịch vụ em đã trực tiếp thực hành tại Watch Party.
 
-- **Áp dụng DDD** cho project hiện tại: Event storming sessions với business team
-- **Refactor microservices**: Sử dụng bounded contexts để identify service boundaries
-- **Implement event-driven patterns**: Thay thế một số sync calls bằng async messaging
-- **Serverless adoption**: Pilot AWS Lambda cho một số use cases phù hợp
-- **Try Amazon Q Developer**: Integrate vào development workflow để boost productivity
+| Dịch vụ | Chức năng |
+|---|---|
+| Amazon EC2 | Cung cấp máy chủ ảo |
+| Amazon S3 | Lưu trữ dữ liệu |
+| Amazon Bedrock | Xây dựng ứng dụng Generative AI |
+| Amazon SageMaker | Phát triển và triển khai mô hình Machine Learning |
+| AWS Lambda | Thực thi mã nguồn theo mô hình Serverless |
+| Amazon API Gateway | Xây dựng và quản lý API |
+| Amazon EKS | Quản lý và triển khai Kubernetes |
+| AWS IAM | Quản lý danh tính và quyền truy cập |
 
-### Trải nghiệm trong event
+Các dịch vụ này có thể kết hợp để xây dựng các hệ thống phần mềm có khả năng mở rộng và tích hợp trí tuệ nhân tạo.
 
-Tham gia workshop **“GenAI-powered App-DB Modernization”** là một trải nghiệm rất bổ ích, giúp tôi có cái nhìn toàn diện về cách hiện đại hóa ứng dụng và cơ sở dữ liệu bằng các phương pháp và công cụ hiện đại. Một số trải nghiệm nổi bật:
+## 5. Những kiến thức học được
 
-#### Học hỏi từ các diễn giả có chuyên môn cao
-- Các diễn giả đến từ AWS và các tổ chức công nghệ lớn đã chia sẻ **best practices** trong thiết kế ứng dụng hiện đại.
-- Qua các case study thực tế, tôi hiểu rõ hơn cách áp dụng **Domain-Driven Design (DDD)** và **Event-Driven Architecture** vào các project lớn.
+### Kiến thức chuyên môn
 
-#### Trải nghiệm kỹ thuật thực tế
-- Tham gia các phiên trình bày về **event storming** giúp tôi hình dung cách **mô hình hóa quy trình kinh doanh** thành các domain events.
-- Học cách **phân tách microservices** và xác định **bounded contexts** để quản lý sự phức tạp của hệ thống lớn.
-- Hiểu rõ trade-offs giữa **synchronous và asynchronous communication** cũng như các pattern tích hợp như **pub/sub, point-to-point, streaming**.
+Hiểu rõ hơn vai trò của điện toán đám mây và trí tuệ nhân tạo trong phát triển hệ thống phần mềm; tiếp cận các khái niệm Generative AI, Agentic AI và hướng ứng dụng thực tế.
 
-#### Ứng dụng công cụ hiện đại
-- Trực tiếp tìm hiểu về **Amazon Q Developer**, công cụ AI hỗ trợ SDLC từ lập kế hoạch đến maintenance.
-- Học cách **tự động hóa code transformation** và pilot serverless với **AWS Lambda**, từ đó nâng cao năng suất phát triển.
+### Tư duy phát triển phần mềm
 
-#### Kết nối và trao đổi
-- Workshop tạo cơ hội trao đổi trực tiếp với các chuyên gia, đồng nghiệp và team business, giúp **nâng cao ngôn ngữ chung (ubiquitous language)** giữa business và tech.
-- Qua các ví dụ thực tế, tôi nhận ra tầm quan trọng của **business-first approach**, luôn bắt đầu từ nhu cầu kinh doanh thay vì chỉ tập trung vào công nghệ.
+Nhận thức được tầm quan trọng của phân tích yêu cầu, thiết kế kiến trúc, lập kế hoạch và kiểm thử trong quá trình xây dựng phần mềm.
 
-#### Bài học rút ra
-- Việc áp dụng DDD và event-driven patterns giúp giảm **coupling**, tăng **scalability** và **resilience** cho hệ thống.
-- Chiến lược hiện đại hóa cần **phased approach** và đo lường **ROI**, không nên vội vàng chuyển đổi toàn bộ hệ thống.
-- Các công cụ AI như Amazon Q Developer có thể **boost productivity** nếu được tích hợp vào workflow phát triển hiện tại.
+### Ứng dụng công cụ AI
 
-#### Một số hình ảnh khi tham gia sự kiện
-* Thêm các hình ảnh của các bạn tại đây
-> Tổng thể, sự kiện không chỉ cung cấp kiến thức kỹ thuật mà còn giúp tôi thay đổi cách tư duy về thiết kế ứng dụng, hiện đại hóa hệ thống và phối hợp hiệu quả hơn giữa các team.
+Biết thêm về Kiro và khả năng ứng dụng AI để hỗ trợ lập trình, quản lý yêu cầu, tự động hóa nhiệm vụ và nâng cao hiệu quả phát triển dự án.
+
+### Định hướng phát triển chuyên môn
+
+Mở rộng định hướng nghiên cứu Cloud Computing, Artificial Intelligence, Machine Learning và phát triển phần mềm tích hợp AI.
+
+## 6. Ứng dụng vào công việc
+
+| Kiến thức | Khả năng ứng dụng |
+|---|---|
+| Cloud Computing | Triển khai website, backend và API |
+| Generative AI | Xây dựng ứng dụng tích hợp trí tuệ nhân tạo |
+| Agentic AI | Phát triển hệ thống tự động hóa thông minh |
+| Kiro | Hỗ trợ phân tích, thiết kế và lập trình dự án |
+| Machine Learning | Xây dựng hệ thống phân tích và dự đoán dữ liệu |
+| AWS Services | Triển khai cơ sở hạ tầng cho ứng dụng |
+| Cloud Security | Nâng cao khả năng bảo mật hệ thống |
+| Spec-driven Development | Chuẩn hóa quy trình phát triển phần mềm |
+
+Những kiến thức này có thể được áp dụng vào các dự án học tập, nghiên cứu và phát triển phần mềm trong tương lai, đặc biệt là các dự án kết hợp AI và điện toán đám mây.
+
+## 7. Trải nghiệm và cảm nhận cá nhân
+
+Qua sự kiện AWS Cloud & AI Day Vietnam 2026 – Watch Party, em có cơ hội tiếp cận thêm nhiều kiến thức về trí tuệ nhân tạo (AI), điện toán đám mây (Cloud Computing), cũng như các dịch vụ và công cụ do AWS cung cấp.
+
+Trong đó, em đặc biệt quan tâm đến Kiro, một công cụ tích hợp AI hỗ trợ lập trình viên trong quá trình phát triển phần mềm. Sự kiện giúp em hiểu rõ hơn về tiềm năng của AI và Cloud trong lĩnh vực công nghệ thông tin, đồng thời mở rộng định hướng tìm hiểu và ứng dụng các công nghệ này vào những dự án học tập và công việc trong tương lai.
+
+Đây là một trải nghiệm bổ ích, giúp em cập nhật thêm nhiều kiến thức công nghệ và tạo động lực để tiếp tục nghiên cứu, phát triển kỹ năng chuyên môn của bản thân.
+
+## 8. Hình ảnh tham gia sự kiện
+
+![Hình ảnh minh chứng tham gia AWS Cloud and AI Day Watch Party tại TP.HCM](/images/events/event1/event1-watch-party.jpg)
+
+*Hình 1. Tham gia sự kiện AWS Cloud & AI Day Vietnam 2026 – Watch Party tại văn phòng AWS TP. Hồ Chí Minh ngày 29/09/2026. Nguồn: ảnh cá nhân.*
+
+## 9. Tài liệu tham khảo
+
+- [AWS Cloud and AI Day](https://aws.amazon.com/vi/events/cloud-day-hanoi/)
+- [Kiro Documentation](https://kiro.dev/docs/)
+- [AWS Documentation](https://docs.aws.amazon.com/)
