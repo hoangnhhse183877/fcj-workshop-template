@@ -27,7 +27,7 @@ chapter: false
 
 &emsp; **Internship Duration:** To be updated
 
-![Your profile picture](/images/avatar.png)
+![Your profile picture](/images/avatar.jpg)
 
 ### Report Content
 

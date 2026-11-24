@@ -25,7 +25,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Chưa cập nhật
 
-![Ảnh đại diện của bạn](/images/avatar.png)
+![Ảnh đại diện của bạn](/images/avatar.jpg)
 
 
 
