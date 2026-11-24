@@ -28,6 +28,20 @@ This section records the events I attended and the knowledge and experience gain
 
 ---
 
-### Event 2
+### [Event 2 – Fireside Chat with Dr. Werner](4.2-Event2/)
 
-*To be updated.*
+**Event Name:** Fireside Chat with Dr. Werner
+
+**Theme:** Navigating the Future of Cloud & AI in Vietnam
+
+**Date & Time:** October 2, 2026, 08:30–12:00 (GMT+7)
+
+**Location:** 26th floor, Bitexco Financial Tower, 2 Hai Trieu Street, Saigon Ward, Ho Chi Minh City, Vietnam
+
+**Role:** Attendee
+
+**Speaker:** Dr. Werner Vogels, VP & CTO, Amazon
+
+**Official event page:** [Fireside Chat with Dr. Werner](https://luma.com/j4y481jz)
+
+[Read the full Event 2 report](4.2-Event2/)

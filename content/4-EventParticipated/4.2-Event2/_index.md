@@ -1,126 +1,137 @@
 ---
 title: "Event 2"
-date: 2024-01-01
-weight: 1
+date: 2026-10-02
+weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** into your report, including this warning.
-{{% /notice %}}
+# Fireside Chat with Dr. Werner
 
-# Summary Report: “GenAI-powered App-DB Modernization workshop”
+## 1. Event Information
 
-### Event Objectives
+| Information | Details |
+|---|---|
+| Event name | Fireside Chat with Dr. Werner |
+| Theme | Navigating the Future of Cloud & AI in Vietnam |
+| Date | Friday, October 2, 2026 |
+| Time | 08:30 – 12:00 (GMT+7) |
+| Venue | 26th floor, Bitexco Financial Tower |
+| Address | 2 Hai Trieu Street, Saigon Ward, Ho Chi Minh City |
+| Luma host | Huynh Hoang Long |
+| Organizations shown on the poster | AWS, First Cloud AI Journey, and Amazon |
+| Format | Fireside Chat |
+| Role | Attendee |
+| Event page | [Fireside Chat with Dr. Werner](https://luma.com/j4y481jz) |
 
-- Share best practices in modern application design
-- Introduce Domain-Driven Design (DDD) and event-driven architecture
-- Provide guidance on selecting the right compute services
-- Present AI tools to support the development lifecycle
+## 2. Event Objectives
 
-### Speakers
+Fireside Chat with Dr. Werner provided an opportunity for students, software developers, system architects, engineers, and technology enthusiasts to explore perspectives on the future of cloud computing and artificial intelligence.
 
-- **Jignesh Shah** – Director, Open Source Databases
-- **Erica Liu** – Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** – Assc. Specialist SA, Serverless Amazon Web Services
+- Gain insights and learn from the experience of Amazon's Chief Technology Officer.
+- Explore the future of Cloud Computing and Artificial Intelligence.
+- Learn about building and operating systems at a global scale.
+- Explore technology trends and digital transformation in Vietnam.
+- Develop an innovation-oriented and problem-solving mindset.
+- Broaden academic and professional development goals in technology.
 
-### Key Highlights
+## 3. Speaker
 
-#### Identifying the drawbacks of legacy application architecture
+**Dr. Werner Vogels** – Vice President & Chief Technology Officer (VP & CTO), Amazon.
 
-- Long product release cycles → Lost revenue/missed opportunities  
-- Inefficient operations → Reduced productivity, higher costs  
-- Non-compliance with security regulations → Security breaches, loss of reputation  
+He is an influential technology leader and a pioneer in cloud computing, with extensive experience building and operating technology systems at a global scale.
 
-#### Transitioning to modern application architecture – Microservices
+## 4. Key Highlights
 
-Migrating to a modular system — each function is an **independent service** communicating via **events**, built on three core pillars:
+The following technical topics are based on the published event themes and explanations of related concepts. They are not a verbatim transcript of the speaker's remarks.
 
-- **Queue Management**: Handle asynchronous tasks  
-- **Caching Strategy**: Optimize performance  
-- **Message Handling**: Flexible inter-service communication  
+### 4.1. The Future of Cloud Computing
 
-#### Domain-Driven Design (DDD)
+Cloud computing plays an increasingly important role in digital transformation and the development of modern technology systems.
 
-- **Four-step method**: Identify domain events → arrange timeline → identify actors → define bounded contexts  
-- **Bookstore case study**: Demonstrates real-world DDD application  
-- **Context mapping**: 7 patterns for integrating bounded contexts  
+It helps businesses and developers access flexible technology resources, reduce dependence on physical infrastructure, and improve their ability to deploy applications.
 
-#### Event-Driven Architecture
+Important aspects of cloud computing include scalability, cost optimization, infrastructure automation, reliability, and global application deployment.
 
-- **3 integration patterns**: Publish/Subscribe, Point-to-point, Streaming  
-- **Benefits**: Loose coupling, scalability, resilience  
-- **Sync vs async comparison**: Understanding the trade-offs  
+### 4.2. The Future of Artificial Intelligence
 
-#### Compute Evolution
+Artificial intelligence is creating new opportunities in software development, data analysis, workflow automation, and user experience improvement.
 
-- **Shared Responsibility Model**: EC2 → ECS → Fargate → Lambda  
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value  
-- **Functions vs Containers**: Criteria for appropriate choice  
+Combining AI and cloud computing allows organizations to develop intelligent systems that process data and adapt to practical requirements.
 
-#### Amazon Q Developer
+Illustrative relationship: Cloud computing provides infrastructure and resources for data analytics and AI; these technologies support intelligent applications and digital transformation.
 
-- **SDLC automation**: From planning to maintenance  
-- **Code transformation**: Java upgrade, .NET modernization  
-- **AWS Transform agents**: VMware, Mainframe, .NET migration  
+### 4.3. Building Systems at a Global Scale
 
-### Key Takeaways
+Building and operating systems for large numbers of users requires software architectures that address performance, stability, security, and scalability.
 
-#### Design Mindset
+| Concept | Meaning |
+|---|---|
+| Scalability | Ability to scale systems |
+| High Availability | Maintaining high system availability |
+| Distributed Systems | Building distributed architectures |
+| Fault Tolerance | Ability to withstand failures |
+| Reliability | Ensuring dependable operation |
+| Performance | Optimizing system performance |
+| Security | Protecting systems and data |
 
-- **Business-first approach**: Always start from the business domain, not the technology  
-- **Ubiquitous language**: Importance of a shared vocabulary between business and tech teams  
-- **Bounded contexts**: Identifying and managing complexity in large systems  
+These principles are important when designing and developing modern software systems.
 
-#### Technical Architecture
+### 4.4. Innovation
 
-- **Event storming technique**: Practical method for modeling business processes  
-- Use **event-driven communication** instead of synchronous calls  
-- **Integration patterns**: When to use sync, async, pub/sub, streaming  
-- **Compute spectrum**: Criteria for choosing between VM, containers, and serverless  
+Innovation involves more than adopting new technologies. It also requires identifying problems, choosing suitable solutions, and creating meaningful value for users.
 
-#### Modernization Strategy
+An innovation-oriented mindset helps students and developers improve problem-solving skills, learn proactively, and adapt to rapid technological changes.
 
-- **Phased approach**: No rushing — follow a clear roadmap  
-- **7Rs framework**: Multiple modernization paths depending on the application  
-- **ROI measurement**: Cost reduction + business agility  
+### 4.5. Technology Leadership
 
-### Applying to Work
+Alongside technical knowledge, leadership and technological vision play important roles in career development.
 
-- **Apply DDD** to current projects: Event storming sessions with business teams  
-- **Refactor microservices**: Use bounded contexts to define service boundaries  
-- **Implement event-driven patterns**: Replace some sync calls with async messaging  
-- **Adopt serverless**: Pilot AWS Lambda for suitable use cases  
-- **Try Amazon Q Developer**: Integrate into the dev workflow to boost productivity  
+Key considerations include continuous learning, long-term thinking, responsibility, teamwork, and effective decision-making throughout product development.
 
-### Event Experience
+For technology students, learning from the experience and perspectives of technology leaders can help establish clearer personal development goals.
 
-Attending the **“GenAI-powered App-DB Modernization”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
+## 5. Key Takeaways
 
-#### Learning from highly skilled speakers
-- Experts from AWS and major tech organizations shared **best practices** in modern application design.  
-- Through real-world case studies, I gained a deeper understanding of applying **DDD** and **Event-Driven Architecture** to large projects.  
+| Area | Lessons and knowledge |
+|---|---|
+| Cloud Computing | Better understand the role of cloud computing in technology development |
+| Artificial Intelligence | Recognize the potential of future AI applications |
+| System Design | Understand the importance of scalability and reliability |
+| Innovation | Develop an innovative and problem-solving mindset |
+| Technology Leadership | Recognize the importance of vision and responsibility |
+| Continuous Learning | Understand the value of continuous learning and staying informed |
+| Career Development | Broaden professional development goals in technology |
 
-#### Hands-on technical exposure
-- Participating in **event storming** sessions helped me visualize how to **model business processes** into domain events.  
-- Learned how to **split microservices** and define **bounded contexts** to manage large-system complexity.  
-- Understood trade-offs between **synchronous and asynchronous communication** and integration patterns like **pub/sub, point-to-point, streaming**.  
+## 6. Applying to Work
 
-#### Leveraging modern tools
-- Explored **Amazon Q Developer**, an AI tool for SDLC support from planning to maintenance.  
-- Learned to **automate code transformation** and pilot serverless with **AWS Lambda** to improve productivity.  
+| Knowledge area | Potential application |
+|---|---|
+| Cloud Computing | Build and deploy applications on AWS |
+| Artificial Intelligence | Develop AI and Machine Learning projects |
+| Distributed Systems | Design distributed software systems |
+| Scalability | Build scalable applications |
+| Reliability | Improve system stability |
+| Innovation | Propose new solutions to practical problems |
+| Technology Leadership | Develop management and teamwork skills |
+| Continuous Learning | Proactively research and explore emerging technologies |
 
-#### Networking and discussions
-- The workshop offered opportunities to exchange ideas with experts, peers, and business teams, enhancing the **ubiquitous language** between business and tech.  
-- Real-world examples reinforced the importance of the **business-first approach** rather than focusing solely on technology.  
+The knowledge and experience from this event can provide a foundation for future academic, research, and professional projects, particularly in artificial intelligence and cloud computing.
 
-#### Lessons learned
-- Applying DDD and event-driven patterns reduces **coupling** while improving **scalability** and **resilience**.  
-- Modernization requires a **phased approach** with **ROI measurement**; rushing the process can be risky.  
-- AI tools like Amazon Q Developer can significantly **boost productivity** when integrated into the current workflow.  
+## 7. Event Experience and Personal Reflection
 
-#### Some event photos
-*Add your event photos here*  
+Through the opportunity to meet Dr. Werner Vogels and listen to his insights, I gained valuable knowledge and experience in the field of technology.
 
-> Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration.
+The event not only broadened my understanding of cloud computing and artificial intelligence but also offered new perspectives on learning, personal development, and future career goals.
+
+The knowledge and experience gained from the event are valuable assets that provide additional motivation, confidence, and a foundation for progressing in my studies and future professional life.
+
+## 8. Event Photos
+
+![Evidence of attending Fireside Chat with Dr. Werner at Bitexco Financial Tower](/images/events/event2/event2-fireside-chat.jpg)
+
+*Figure 1. Attending Fireside Chat with Dr. Werner at the 26th floor of Bitexco Financial Tower, Ho Chi Minh City, on October 2, 2026. Source: personal photograph.*
+
+## 9. References
+
+- [Fireside Chat with Dr. Werner](https://luma.com/j4y481jz)
