@@ -45,3 +45,23 @@ This section records the events I attended and the knowledge and experience gain
 **Official event page:** [Fireside Chat with Dr. Werner](https://luma.com/j4y481jz)
 
 [Read the full Event 2 report](4.2-Event2/)
+
+---
+
+### [Event 3 – AWS Student Community Day Vietnam 2026](4.3-Event3/)
+
+**Event Name:** AWS Student Community Day Vietnam 2026
+
+**Date & Time:** November 21, 2026, 09:00–11:30 (GMT+7), according to the organizer's event description
+
+**Location:** 26th floor, Bitexco Financial Tower, 2 Hai Trieu Street, Saigon Ward, Ho Chi Minh City, Vietnam
+
+**Organizers:** AWS Student Builder Groups Vietnam (HUFLIT, HCMUTE, PTIT, and SGU)
+
+**Role:** Attendee
+
+**Main topics:** Cloud Computing, Artificial Intelligence, and community learning.
+
+**Official event page:** [AWS Student Community Day Vietnam 2026](https://www.meetup.com/aws-sbg-at-hcmc-univ-of-foreign-languages-and-info-tech/events/317238332/)
+
+[Read the full Event 3 report](4.3-Event3/)
