@@ -1,57 +1,44 @@
 ---
 title: "Week 11 Worklog"
-date: 2024-01-01
-weight: 2
+date: 2026-11-23
+weight: 11
 chapter: false
 pre: " <b> 1.11. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
 
+# AI Evaluation, Testing and Optimization
 
-### Week 11 Objectives:
+**Period:** 2026-11-23 – 2026-11-29
 
-* Connect and get acquainted with members of First Cloud AI Journey.
-* Understand basic AWS services, how to use the console & CLI.
+### Week 11 Objectives
 
-### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
+- Study AI quality evaluation, performance and cost optimization, review BrandTracker's limitations and complete the AWS blog.
 
+### Weekly Tasks
 
-### Week 11 Achievements:
+| Day | Task | Start Date (allocated) | Completion Date (allocated) | Reference Material |
+|---|---|---|---|---|
+| Monday | Study quality criteria for AI retrieval, analysis and data synthesis. | 2026-11-23 | 2026-11-23 | `research-quality-evaluation.vi.md`; `paired-synthesis-evaluation.vi.md`; `incremental-extraction-reuse.vi.md`; `research-history-cache.vi.md` |
+| Tuesday | Study A/B Evaluation and methods for testing analysis quality. | 2026-11-24 | 2026-11-24 | `research-quality-evaluation.vi.md`; `paired-synthesis-evaluation.vi.md`; `incremental-extraction-reuse.vi.md`; `research-history-cache.vi.md` |
+| Wednesday | Study Incremental Extraction, AI Cache and Embedding Cache to reduce redundant processing. | 2026-11-25 | 2026-11-25 | `research-quality-evaluation.vi.md`; `paired-synthesis-evaluation.vi.md`; `incremental-extraction-reuse.vi.md`; `research-history-cache.vi.md` |
+| Thursday | Study token and AI model call cost optimization and review system limitations. | 2026-11-26 | 2026-11-26 | `research-quality-evaluation.vi.md`; `paired-synthesis-evaluation.vi.md`; `incremental-extraction-reuse.vi.md`; `research-history-cache.vi.md` |
+| Friday | Complete and publish the Amazon S3 blog in the AWS community and compile the team's articles. | 2026-11-27 | 2026-11-27 | [Blog 1](https://www.facebook.com/groups/awsstudygroupfcj/posts/2350947399003552/) |
+| Saturday | Planned: review technical documentation and summarize AI work. | 2026-11-28 | 2026-11-28 (planned) | `research-quality-evaluation.vi.md`; `paired-synthesis-evaluation.vi.md`; `incremental-extraction-reuse.vi.md`; `research-history-cache.vi.md` |
+| Sunday | Planned: review and finalize the internship report. | 2026-11-29 | 2026-11-29 (planned) | `research-quality-evaluation.vi.md`; `paired-synthesis-evaluation.vi.md`; `incremental-extraction-reuse.vi.md`; `research-history-cache.vi.md` |
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+### Target Outcomes
 
-* Successfully created and configured an AWS Free Tier account.
+- Understand AI quality evaluation methods.
+- Understand processing performance and cost optimization.
+- Identify system limitations and improvement directions.
+- Complete the AWS knowledge-sharing blog.
+- Planned: consolidate AI research for the report.
 
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
+### Reference Materials
 
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
+- `research-quality-evaluation.vi.md`
+- `paired-synthesis-evaluation.vi.md`
+- `incremental-extraction-reuse.vi.md`
+- `research-history-cache.vi.md`
 
-* Used AWS CLI to perform basic operations such as:
-
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
-
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+*Dates are allocated for reporting; research activities do not imply completed production deployment or model acceptance.*

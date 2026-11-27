@@ -1,59 +1,40 @@
 ---
 title: "Worklog Tuần 10"
-date: 2024-01-01
-weight: 2
+date: 2026-11-16
+weight: 10
 chapter: false
 pre: " <b> 1.10. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
+# Trích xuất bằng chứng và tổng hợp Insight
 
-### Mục tiêu tuần 10:
+**Thời gian:** 16/11/2026 – 22/11/2026
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+### Mục tiêu tuần 10
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+- Nghiên cứu chuyển đổi dữ liệu bình luận thành kết quả phân tích có giá trị và có bằng chứng.
 
+### Các công việc trong tuần
 
-### Kết quả đạt được tuần 10:
+| Thứ | Công việc | Ngày bắt đầu (phân bổ) | Ngày hoàn thành (phân bổ) | Nguồn tài liệu |
+|---|---|---|---|---|
+| 2 | Nghiên cứu trích xuất vấn đề, nhu cầu và trải nghiệm từ phản hồi khách hàng. | 16/11/2026 | 16/11/2026 | `branch-evidence-synthesis.vi.md`; `topic-synthesis.vi.md`; `comment-graph-analytics.vi.md` |
+| 3 | Tìm hiểu Quote ID và kiểm chứng trích dẫn từ dữ liệu gốc. | 17/11/2026 | 17/11/2026 | `branch-evidence-synthesis.vi.md`; `topic-synthesis.vi.md`; `comment-graph-analytics.vi.md` |
+| 4 | Nghiên cứu Branch Evidence Synthesis và tổng hợp bằng chứng từ nhiều nhánh hội thoại. | 18/11/2026 | 18/11/2026 | `branch-evidence-synthesis.vi.md`; `topic-synthesis.vi.md`; `comment-graph-analytics.vi.md` |
+| 5 | Tìm hiểu gom nhóm vấn đề, tổng hợp Insight và đề xuất giải pháp có thể kiểm chứng. | 19/11/2026 | 19/11/2026 | `branch-evidence-synthesis.vi.md`; `topic-synthesis.vi.md`; `comment-graph-analytics.vi.md` |
+| 6 | Nghiên cứu Topic Synthesis và tổng hợp kết quả từ nhiều bài viết. | 20/11/2026 | 20/11/2026 | `branch-evidence-synthesis.vi.md`; `topic-synthesis.vi.md`; `comment-graph-analytics.vi.md` |
+| 7 | Tham gia AWS Student Community Day Vietnam 2026, tìm hiểu thêm Cloud và AI. | 21/11/2026 | 21/11/2026 | [Event](https://www.meetup.com/aws-sbg-at-hcmc-univ-of-foreign-languages-and-info-tech/events/317238332/) |
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+### Kết quả hướng đến
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+- Hiểu quy trình trích xuất vấn đề từ phản hồi người dùng.
+- Nắm phương pháp kiểm chứng bằng chứng.
+- Hiểu cách xây dựng Insight và đề xuất giải pháp dựa trên dữ liệu thực tế.
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+### Tài liệu tham khảo
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+- `branch-evidence-synthesis.vi.md`
+- `topic-synthesis.vi.md`
+- `comment-graph-analytics.vi.md`
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
-
+*Các mốc ngày là phân bổ phục vụ báo cáo; nội dung nghiên cứu không đồng nghĩa với việc đã triển khai hoặc nghiệm thu mô hình production.*

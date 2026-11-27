@@ -1,57 +1,37 @@
 ---
 title: "Week 5 Worklog"
-date: 2024-01-01
-weight: 1
+date: 2026-10-12
+weight: 5
 chapter: false
 pre: " <b> 1.5. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
 
+# Comment Quality Assessment
 
-### Week 5 Objectives:
+**Period:** 2026-10-12 – 2026-10-18
 
-* Connect and get acquainted with members of First Cloud AI Journey.
-* Understand basic AWS services, how to use the console & CLI.
+### Week 5 Objectives
 
-### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
+- Research methods for selecting valuable comments for AI analysis.
 
+### Weekly Tasks
 
-### Week 5 Achievements:
+| Day | Task | Start Date (allocated) | Completion Date (allocated) | Reference Material |
+|---|---|---|---|---|
+| Monday | Study BrandTracker's Comment Quality system. | 2026-10-12 | 2026-10-12 | `comment-intelligence-standard.vi.md` |
+| Tuesday | Explore criteria for comment relevance and information value. | 2026-10-13 | 2026-10-13 | `comment-intelligence-standard.vi.md` |
+| Wednesday | Study indicators of firsthand experience, problems and solutions. | 2026-10-14 | 2026-10-14 | `comment-intelligence-standard.vi.md` |
+| Thursday | Explore duplicate detection and evidence-bearing comment selection. | 2026-10-15 | 2026-10-15 | `comment-intelligence-standard.vi.md` |
+| Friday | Review quality rules, diverse feedback selection and preservation of counterarguments. | 2026-10-16 | 2026-10-16 | `comment-intelligence-standard.vi.md` |
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+### Target Outcomes
 
-* Successfully created and configured an AWS Free Tier account.
+- Understand comment quality criteria.
+- Distinguish information value from engagement counts and sentiment.
+- Understand how to prioritize valuable data without losing important evidence.
 
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
+### Reference Materials
 
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
+- `comment-intelligence-standard.vi.md`
 
-* Used AWS CLI to perform basic operations such as:
-
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
-
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+*Dates are allocated for reporting; research activities do not imply completed production deployment or model acceptance.*

@@ -1,57 +1,38 @@
 ---
 title: "Week 3 Worklog"
-date: 2024-01-01
-weight: 1
+date: 2026-09-28
+weight: 3
 chapter: false
 pre: " <b> 1.3. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
 
+# AI Architecture and Conversation Processing
 
-### Week 3 Objectives:
+**Period:** 2026-09-28 – 2026-10-04
 
-* Connect and get acquainted with members of First Cloud AI Journey.
-* Understand basic AWS services, how to use the console & CLI.
+### Week 3 Objectives
 
-### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
+- Study the analysis pipeline for posts, comments and replies.
 
+### Weekly Tasks
 
-### Week 3 Achievements:
+| Day | Task | Start Date (allocated) | Completion Date (allocated) | Reference Material |
+|---|---|---|---|---|
+| Monday | Explore the overall AI architecture of BrandTracker. | 2026-09-28 | 2026-09-28 | `thread-intelligence-mvp.vi.md`; `problem-intelligence-search.vi.md` |
+| Tuesday | Attend the AWS Cloud & AI Day Vietnam 2026 Watch Party and learn about Cloud, Generative AI and Agentic AI. | 2026-09-29 | 2026-09-29 | [AWS Cloud & AI Day](https://aws.amazon.com/vi/events/cloud-day-hanoi/) |
+| Wednesday | Study Thread Intelligence and the representation of comment-reply relationships. | 2026-09-30 | 2026-09-30 | `thread-intelligence-mvp.vi.md`; `problem-intelligence-search.vi.md` |
+| Thursday | Study Conversation Units and how to provide context to AI. | 2026-10-01 | 2026-10-01 | `thread-intelligence-mvp.vi.md`; `problem-intelligence-search.vi.md` |
+| Friday | Attend Fireside Chat with Dr. Werner Vogels and explore Cloud and AI development trends. | 2026-10-02 | 2026-10-02 | [Event](https://luma.com/j4y481jz) |
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+### Target Outcomes
 
-* Successfully created and configured an AWS Free Tier account.
+- Understand the AI data processing flow.
+- Understand the role of conversational context in comment analysis.
+- Gain additional Cloud and AI knowledge from the two AWS events.
 
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
+### Reference Materials
 
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
+- `thread-intelligence-mvp.vi.md`
+- `problem-intelligence-search.vi.md`
 
-* Used AWS CLI to perform basic operations such as:
-
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
-
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+*Dates are allocated for reporting; research activities do not imply completed production deployment or model acceptance.*
