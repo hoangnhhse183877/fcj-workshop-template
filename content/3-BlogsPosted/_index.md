@@ -6,17 +6,22 @@ chapter: false
 pre: " <b> 3. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
+This section introduces articles submitted to or published in [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj) as part of my internship.
 
-This section will list and introduce the blogs you have posted to [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj). For example:
+### [Blog 1 – Amazon S3 – Cost Optimization, Security, and Automated Data Management on AWS](3.1-Blog1/)
 
-###  [Blog 1 - SESSION POLICIES IN AMAZON EKS POD IDENTITY](3.1-Blog1/)
-This blog introduces the newly added session policies feature in Amazon EKS Pod Identity, which allows you to narrow IAM permissions flexibly and precisely for each pod without needing to create multiple separate IAM roles. This is an important step forward that helps apply the principle of least privilege more effectively in large-scale Kubernetes environments.
+This article explores Amazon S3 storage classes, Lifecycle, Versioning, presigned URLs, security best practices, and event-driven automation with AWS Lambda, including a practical Lifecycle configuration guide.
 
-###  [Blog 2 - ...](3.2-Blog2/)
-This blog introduces the newly added session policies feature in Amazon EKS Pod Identity, which allows you to narrow IAM permissions flexibly and precisely for each pod without needing to create multiple separate IAM roles. This is an important step forward that helps apply the principle of least privilege more effectively in large-scale Kubernetes environments.
+**Submission date:** November 27, 2026
 
-###  [Blog 3 - ...](3.3-Blog3/)
-This blog introduces the newly added session policies feature in Amazon EKS Pod Identity, which allows you to narrow IAM permissions flexibly and precisely for each pod without needing to create multiple separate IAM roles. This is an important step forward that helps apply the principle of least privilege more effectively in large-scale Kubernetes environments.
+**Status:** Pending approval
+
+**Facebook post URL:** To be updated after approval.
+
+### [Blog 2](3.2-Blog2/)
+
+Content to be updated.
+
+### [Blog 3](3.3-Blog3/)
+
+Content to be updated.
