@@ -12,9 +12,10 @@ pre: " <b> 3.1. </b> "
 |---|---|
 | Author | Nguyen Huu Huy Hoang |
 | Submission date | November 27, 2026 |
-| Status | Pending approval |
+| Publication date | November 27, 2026 |
+| Status | Approved and published |
 | Platform | [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj) |
-| Post URL | To be updated after approval |
+| Post URL | [View the original post](https://www.facebook.com/groups/awsstudygroupfcj/posts/2350947399003552/) |
 | Format | Technical research and knowledge sharing |
 
 ## 1. Introduction
@@ -377,7 +378,7 @@ These foundational skills and concepts will help me continue researching and dev
 *Figure 6. Amazon S3 – Cost Optimization, Security, and Automated Data Management on AWS, submitted on November 27, 2026.*
 
 
-The author reports that the article is pending approval; the screenshot does not independently establish approval status. The Facebook post URL will be added later.
+The screenshot documents the original submission. The author confirmed that the article was approved on November 27, 2026. [View the published article in AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj/posts/2350947399003552/).
 
 ## References
 

@@ -14,9 +14,11 @@ Bài viết trình bày các lớp lưu trữ Amazon S3, Lifecycle, Versioning, 
 
 **Ngày gửi bài:** 27/11/2026
 
-**Trạng thái:** Đang chờ duyệt
+**Ngày đăng:** 27/11/2026
 
-**Đường dẫn bài đăng Facebook:** Chờ cập nhật sau khi được duyệt.
+**Trạng thái:** Đã được duyệt và đăng
+
+**Đường dẫn bài đăng Facebook:** [Xem bài viết gốc](https://www.facebook.com/groups/awsstudygroupfcj/posts/2350947399003552/)
 
 ### [Blog 2](3.2-Blog2/)
 

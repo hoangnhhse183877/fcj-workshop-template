@@ -12,9 +12,10 @@ pre: " <b> 3.1. </b> "
 |---|---|
 | Tác giả | Nguyễn Hữu Huy Hoàng |
 | Ngày gửi bài | 27/11/2026 |
-| Trạng thái | Đang chờ duyệt |
+| Ngày đăng | 27/11/2026 |
+| Trạng thái | Đã được duyệt và đăng |
 | Nền tảng | [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj) |
-| Đường dẫn bài đăng | Chờ cập nhật sau khi được duyệt |
+| Đường dẫn bài đăng | [Xem bài viết gốc](https://www.facebook.com/groups/awsstudygroupfcj/posts/2350947399003552/) |
 | Hình thức | Nghiên cứu và chia sẻ kiến thức kỹ thuật |
 
 ## 1. Giới thiệu
@@ -369,7 +370,7 @@ Quá trình thực hiện bài viết cũng giúp em rèn luyện khả năng t�
 *Hình 6. Bài viết Amazon S3 – Tối ưu chi phí, bảo mật và tự động hóa quản lý dữ liệu trên AWS được gửi ngày 27/11/2026.*
 
 
-Trạng thái đang chờ duyệt theo thông tin người viết cung cấp; ảnh chụp không tự xác nhận trạng thái phê duyệt. Đường dẫn Facebook sẽ bổ sung sau.
+Ảnh chụp minh chứng cho thời điểm gửi bài ban đầu. Người viết xác nhận bài đã được duyệt ngày 27/11/2026. [Xem bài viết đã đăng trên AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj/posts/2350947399003552/).
 
 ## Tài liệu tham khảo
 

@@ -14,9 +14,11 @@ This article explores Amazon S3 storage classes, Lifecycle, Versioning, presigne
 
 **Submission date:** November 27, 2026
 
-**Status:** Pending approval
+**Publication date:** November 27, 2026
 
-**Facebook post URL:** To be updated after approval.
+**Status:** Approved and published
+
+**Facebook post URL:** [View the original post](https://www.facebook.com/groups/awsstudygroupfcj/posts/2350947399003552/)
 
 ### [Blog 2](3.2-Blog2/)
 
