@@ -10,7 +10,7 @@ pre: " <b> 1. </b> "
 
 Thời gian thực tập: **14/09/2026 – 14/12/2026**. Nhật ký này tổng hợp 12 mục tuần từ 14/09 đến hạn nộp báo cáo **30/11/2026**; tuần 12 chỉ ghi ngày nộp dự kiến. Phạm vi tập trung vào tự học AWS và các công việc AI của dự án BrandTracker, bao gồm NLP tiếng Việt, Machine Learning, Embedding, Semantic Search, Hybrid Search, RAG, LLM và đánh giá chất lượng AI.
 
-Các nội dung AI được tổng hợp từ tài liệu dự án BrandTracker và phân bổ theo trình tự nghiên cứu. Ngày trong bảng là mốc phân bổ công việc theo tuần đã thống nhất để lập báo cáo, không phải nhật ký chấm công hoặc bằng chứng nghiệm thu từng nhiệm vụ.
+Các nội dung AI được tổng hợp từ tài liệu dự án BrandTracker và phân bổ theo trình tự nghiên cứu. Ngày trong bảng là mốc phân bổ công việc theo tuần đã thống nhất để lập báo cáo, không phải nhật ký chấm công hoặc bằng chứng nghiệm thu từng nhiệm vụ. Tên tài liệu nội bộ trong các tuần là nguồn đối chiếu khi tổng hợp báo cáo, không khẳng định tài liệu đã được phát hành vào ngày thực hiện công việc.
 
 Các công việc ngày 28–30/11 được ghi là dự kiến tại thời điểm lập báo cáo (27/11/2026).
 

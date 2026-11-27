@@ -10,7 +10,7 @@ pre: " <b> 1. </b> "
 
 Internship period: **September 14 – December 14, 2026**. This worklog covers 12 weekly entries from September 14 through the report submission deadline of **November 30, 2026**; Week 12 covers only the planned submission day. The scope focuses on independent AWS study and AI work in BrandTracker, including Vietnamese NLP, Machine Learning, Embedding, Semantic Search, Hybrid Search, RAG, LLMs and AI quality evaluation.
 
-AI activities are drawn from BrandTracker project documentation and organized in a research sequence. Table dates are the agreed reporting allocation, not verified time records or proof of individual task completion.
+AI activities are drawn from BrandTracker project documentation and organized in a research sequence. Table dates are the agreed reporting allocation, not verified time records or proof of individual task completion. Internal document names listed in the weekly entries are retrospective references used to compile the report, not claims that those documents were published on the allocated task dates.
 
 Activities on November 28–30 are marked as planned as of the report preparation date (November 27, 2026).
 
