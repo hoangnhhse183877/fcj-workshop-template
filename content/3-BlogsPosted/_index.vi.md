@@ -1,6 +1,6 @@
 ---
 title: "Các bài blogs đã đăng"
-date: 2024-01-01
+date: 2026-11-27
 weight: 3
 chapter: false
 pre: " <b> 3. </b> "
@@ -20,9 +20,17 @@ Bài viết trình bày các lớp lưu trữ Amazon S3, Lifecycle, Versioning, 
 
 **Đường dẫn bài đăng Facebook:** [Xem bài viết gốc](https://www.facebook.com/groups/awsstudygroupfcj/posts/2350947399003552/)
 
-### [Blog 2](3.2-Blog2/)
+### [Blog 2 – AWS EC2-Other: Tìm hiểu các chi phí tiềm ẩn và cách tối ưu chi phí trên AWS](3.2-Blog2/)
 
-Nội dung sẽ được bổ sung.
+Bài viết phân tích chi phí EC2-Other, AWS Free Tier và AWS Credits, hướng dẫn sử dụng AWS Cost Explorer và đề xuất các biện pháp tối ưu chi phí tài nguyên Cloud.
+
+**Ngày gửi bài:** 27/11/2026
+
+**Ngày đăng:** 27/11/2026
+
+**Trạng thái:** Đã được duyệt và đăng (theo thông tin cung cấp)
+
+**Đường dẫn bài đăng Facebook:** [Xem bài viết gốc](https://www.facebook.com/groups/awsstudygroupfcj/posts/2351052395659719/)
 
 ### [Blog 3](3.3-Blog3/)
 

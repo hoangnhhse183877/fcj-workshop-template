@@ -1,6 +1,6 @@
 ---
 title: "Blogs Posted"
-date: 2024-01-01
+date: 2026-11-27
 weight: 3
 chapter: false
 pre: " <b> 3. </b> "
@@ -20,9 +20,17 @@ This article explores Amazon S3 storage classes, Lifecycle, Versioning, presigne
 
 **Facebook post URL:** [View the original post](https://www.facebook.com/groups/awsstudygroupfcj/posts/2350947399003552/)
 
-### [Blog 2](3.2-Blog2/)
+### [Blog 2 – AWS EC2-Other: Understanding Hidden Costs and How to Optimize Costs on AWS](3.2-Blog2/)
 
-Content to be updated.
+This article analyzes EC2-Other costs, AWS Free Tier and AWS Credits, explains how to use AWS Cost Explorer, and presents practical methods for optimizing cloud resource costs.
+
+**Submission date:** November 27, 2026
+
+**Publication date:** November 27, 2026
+
+**Status:** Approved and published (as reported)
+
+**Facebook post URL:** [View the original post](https://www.facebook.com/groups/awsstudygroupfcj/posts/2351052395659719/)
 
 ### [Blog 3](3.3-Blog3/)
 
