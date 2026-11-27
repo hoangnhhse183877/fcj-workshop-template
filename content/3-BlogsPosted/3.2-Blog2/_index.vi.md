@@ -10,14 +10,14 @@ pre: " <b> 3.2. </b> "
 
 | Thông tin | Nội dung |
 |---|---|
-| Tên hiển thị trên bài đăng | Khánh Vương |
+| Tác giả | Khánh Vương (thành viên trong nhóm) |
 | Ngày gửi bài | 27/11/2026 |
 | Ngày đăng | 27/11/2026 |
 | Trạng thái | Đã được duyệt và đăng (theo thông tin cung cấp) |
 | Nền tảng | [AWS Study Group VN](https://www.facebook.com/groups/awsstudygroupfcj) |
 | Đường dẫn bài đăng | [Xem bài viết gốc](https://www.facebook.com/groups/awsstudygroupfcj/posts/2351052395659719/) |
 
-Nội dung dưới đây được trình bày theo bài viết cung cấp; tên hiển thị trên Facebook khác tên người lập báo cáo. Vai trò tác giả hoặc đồng tác giả của người lập báo cáo chưa được xác nhận.
+Bài viết do Khánh Vương, thành viên trong nhóm của em, thực hiện và đăng tải. Bài viết được đưa vào báo cáo như một đóng góp của nhóm. Nội dung bên dưới giữ nguyên góc nhìn của tác giả bài viết.
 
 ## 1. Giới thiệu
 

@@ -10,14 +10,14 @@ pre: " <b> 3.2. </b> "
 
 | Information | Details |
 |---|---|
-| Name displayed on the post | Khánh Vương |
+| Author | Khánh Vương (team member) |
 | Submission date | November 27, 2026 |
 | Publication date | November 27, 2026 |
 | Status | Approved and published (as reported) |
 | Platform | [AWS Study Group VN](https://www.facebook.com/groups/awsstudygroupfcj) |
 | Post URL | [View the original post](https://www.facebook.com/groups/awsstudygroupfcj/posts/2351052395659719/) |
 
-The following content is based on the supplied article. The Facebook display name differs from the report author's name; the report author's role as author or co-author has not been confirmed.
+This article was written and published by Khánh Vương, a member of my team. It is included in this report as a contribution from our team. The article below retains the original author's perspective.
 
 ## 1. Introduction
 
