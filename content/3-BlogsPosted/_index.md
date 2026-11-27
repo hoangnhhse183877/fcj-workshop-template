@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 3. </b> "
 ---
 
-This section introduces articles submitted to or published in [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj) as part of my internship.
+This section introduces articles by me and members of my team submitted to or published in [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj) as part of my internship.
 
 ### [Blog 1 – Amazon S3 – Cost Optimization, Security, and Automated Data Management on AWS](3.1-Blog1/)
 
@@ -32,6 +32,14 @@ This article analyzes EC2-Other costs, AWS Free Tier and AWS Credits, explains h
 
 **Facebook post URL:** [View the original post](https://www.facebook.com/groups/awsstudygroupfcj/posts/2351052395659719/)
 
-### [Blog 3](3.3-Blog3/)
+### [Blog 3 – Amazon S3 Vectors Hybrid Search – Optimizing Search and RAG Systems on AWS](3.3-Blog3/)
 
-Content to be updated.
+This article introduces Hybrid Search on Amazon S3 Vectors, combining semantic and keyword search, and explores its application in a proposed BrandTracker architecture using Amazon SQS, AWS Lambda, and Amazon Bedrock.
+
+**Author:** Đan Huy (Team Leader)
+
+**Publication date:** November 27, 2026
+
+**Status:** Approved and published
+
+**Facebook post URL:** [View the original post](https://www.facebook.com/groups/awsstudygroupfcj/posts/2347637312667894)

@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 3. </b> "
 ---
 
-Phần này giới thiệu các bài viết em đã gửi hoặc đăng trên cộng đồng [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj) trong quá trình thực tập.
+Phần này giới thiệu các bài viết của em và các thành viên trong nhóm đã gửi hoặc đăng trên cộng đồng [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj) trong quá trình thực tập.
 
 ### [Blog 1 – Amazon S3 – Tối ưu chi phí, bảo mật và tự động hóa quản lý dữ liệu trên AWS](3.1-Blog1/)
 
@@ -32,6 +32,14 @@ Bài viết phân tích chi phí EC2-Other, AWS Free Tier và AWS Credits, hư�
 
 **Đường dẫn bài đăng Facebook:** [Xem bài viết gốc](https://www.facebook.com/groups/awsstudygroupfcj/posts/2351052395659719/)
 
-### [Blog 3](3.3-Blog3/)
+### [Blog 3 – Amazon S3 Vectors Hybrid Search – Tối ưu hệ thống tìm kiếm và RAG trên AWS](3.3-Blog3/)
 
-Nội dung sẽ được bổ sung.
+Bài viết giới thiệu Hybrid Search trên Amazon S3 Vectors, kết hợp tìm kiếm ngữ nghĩa và từ khóa, cùng hướng ứng dụng trong kiến trúc BrandTracker sử dụng Amazon SQS, AWS Lambda và Amazon Bedrock.
+
+**Tác giả:** Đan Huy (Trưởng nhóm)
+
+**Ngày đăng:** 27/11/2026
+
+**Trạng thái:** Đã được duyệt và đăng
+
+**Đường dẫn bài đăng Facebook:** [Xem bài viết gốc](https://www.facebook.com/groups/awsstudygroupfcj/posts/2347637312667894)
