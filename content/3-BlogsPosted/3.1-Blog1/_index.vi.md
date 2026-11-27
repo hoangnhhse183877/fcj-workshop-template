@@ -362,15 +362,15 @@ Quá trình thực hiện bài viết cũng giúp em rèn luyện khả năng t�
 
 Đây là những kiến thức nền tảng có giá trị, giúp em tiếp tục nghiên cứu và phát triển các dự án liên quan đến AWS và Cloud Computing trong tương lai.
 
-## Hình ảnh minh chứng gửi bài
+## Hình ảnh minh chứng bài viết
 
 
-![Hình 6. Bài viết Amazon S3 – Tối ưu chi phí, bảo mật và tự động hóa quản lý dữ liệu trên AWS được gửi ngày 27/11/2026.](/images/blogs/blog1/blog1-submission-proof.png)
+![Hình 6. Bài viết Amazon S3 trên cộng đồng AWS Study Group, ngày 27/11/2026.](/images/blogs/blog1/blog1-submission-proof.png)
 
-*Hình 6. Bài viết Amazon S3 – Tối ưu chi phí, bảo mật và tự động hóa quản lý dữ liệu trên AWS được gửi ngày 27/11/2026.*
+*Hình 6. Bài viết Amazon S3 trên cộng đồng AWS Study Group, ngày 27/11/2026.*
 
 
-Ảnh chụp minh chứng cho thời điểm gửi bài ban đầu. Người viết xác nhận bài đã được duyệt ngày 27/11/2026. [Xem bài viết đã đăng trên AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj/posts/2350947399003552/).
+Người viết xác nhận bài đã được duyệt và đăng ngày 27/11/2026. [Xem bài viết đã đăng trên AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj/posts/2350947399003552/).
 
 ## Tài liệu tham khảo
 

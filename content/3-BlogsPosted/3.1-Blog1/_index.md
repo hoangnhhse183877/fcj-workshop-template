@@ -370,15 +370,15 @@ Writing the article helped me practice independent learning, technical documenta
 
 These foundational skills and concepts will help me continue researching and developing projects related to AWS and Cloud Computing.
 
-## Evidence of Article Submission
+## Article Evidence
 
 
-![Figure 6. Amazon S3 – Cost Optimization, Security, and Automated Data Management on AWS, submitted on November 27, 2026.](/images/blogs/blog1/blog1-submission-proof.png)
+![Figure 6. Amazon S3 article in AWS Study Group, November 27, 2026.](/images/blogs/blog1/blog1-submission-proof.png)
 
-*Figure 6. Amazon S3 – Cost Optimization, Security, and Automated Data Management on AWS, submitted on November 27, 2026.*
+*Figure 6. Amazon S3 article in AWS Study Group, November 27, 2026.*
 
 
-The screenshot documents the original submission. The author confirmed that the article was approved on November 27, 2026. [View the published article in AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj/posts/2350947399003552/).
+The author confirmed that the article was approved and published on November 27, 2026. [View the published article in AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj/posts/2350947399003552/).
 
 ## References
 
