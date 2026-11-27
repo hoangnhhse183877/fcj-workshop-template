@@ -18,20 +18,16 @@ pre: " <b> 1.1. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu (phân bổ) | Ngày hoàn thành (phân bổ) | Nguồn tài liệu |
 |---|---|---|---|---|
-| 2 | Tự học tại nhà, tìm hiểu chương trình First Cloud AI Journey. | 14/09/2026 | 14/09/2026 | [AWS Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 3 | Tìm hiểu điện toán đám mây và tổng quan các dịch vụ AWS. | 15/09/2026 | 15/09/2026 | [AWS Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 4 | Nghiên cứu kiến thức cơ bản về Artificial Intelligence, Machine Learning và Deep Learning. | 16/09/2026 | 16/09/2026 | [AWS Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 5 | Ôn tập Python và các phương pháp xử lý dữ liệu phục vụ AI. | 17/09/2026 | 17/09/2026 | [AWS Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 6 | Tìm hiểu Natural Language Processing (NLP) và ứng dụng AI trong phân tích văn bản. | 18/09/2026 | 18/09/2026 | [AWS Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
+| 2 | Tự học tại nhà, tìm hiểu chương trình First Cloud AI Journey. | 14/09/2026 | 14/09/2026 | — |
+| 3 | Tìm hiểu điện toán đám mây và tổng quan các dịch vụ AWS. | 15/09/2026 | 15/09/2026 | — |
+| 4 | Nghiên cứu kiến thức cơ bản về Artificial Intelligence, Machine Learning và Deep Learning. | 16/09/2026 | 16/09/2026 | — |
+| 5 | Ôn tập Python và các phương pháp xử lý dữ liệu phục vụ AI. | 17/09/2026 | 17/09/2026 | — |
+| 6 | Tìm hiểu Natural Language Processing (NLP) và ứng dụng AI trong phân tích văn bản. | 18/09/2026 | 18/09/2026 | — |
 
 ### Kết quả hướng đến
 
 - Nắm kiến thức nền tảng về AWS và AI.
 - Hiểu phương pháp xử lý dữ liệu phục vụ Machine Learning.
 - Có kiến thức NLP cơ bản để chuẩn bị tham gia dự án.
-
-### Tài liệu tham khảo
-
-- [AWS Cloud Journey](https://cloudjourney.awsstudygroup.com/)
 
 *Các mốc ngày là phân bổ phục vụ báo cáo; nội dung nghiên cứu không đồng nghĩa với việc đã triển khai hoặc nghiệm thu mô hình production.*
