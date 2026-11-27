@@ -17,15 +17,15 @@ chapter: false
 
 &emsp; **University:** FPT University (FPTU)
 
-&emsp; **Major:** To be updated
+&emsp; **Major:** Information Technology
 
 &emsp; **Class:** To be updated
 
-&emsp; **Internship Company:** To be updated
+&emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 
-&emsp; **Internship Position:** To be updated
+&emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Internship Duration:** To be updated
+&emsp; **Internship Duration:** September 14, 2026 – December 14, 2026
 
 ![Your profile picture](/images/avatar.jpg)
 

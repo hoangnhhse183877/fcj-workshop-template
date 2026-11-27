@@ -15,15 +15,15 @@ chapter: false
 
 &emsp; **Trường:** Đại học FPT (FPTU)
 
-&emsp; **Ngành:** Chưa cập nhật
+&emsp; **Ngành:** Công nghệ thông tin
 
 &emsp; **Lớp:** Chưa cập nhật
 
-&emsp; **Công ty thực tập:** Chưa cập nhật
+&emsp; **Công ty thực tập:** Amazon Web Services Viet Nam Company Limited
 
-&emsp; **Vị trí thực tập:** Chưa cập nhật
+&emsp; **Vị trí thực tập:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Thời gian thực tập:** Chưa cập nhật
+&emsp; **Thời gian thực tập:** 14/09/2026 – 14/12/2026
 
 ![Ảnh đại diện của bạn](/images/avatar.jpg)
 
