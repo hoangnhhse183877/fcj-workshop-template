@@ -17,7 +17,7 @@ chapter: false
 
 &emsp; **Ngành:** Công nghệ thông tin
 
-&emsp; **Lớp:** Chưa cập nhật
+&emsp; **Lớp:** FCAJ - FPT - Season 4
 
 &emsp; **Công ty thực tập:** Amazon Web Services Viet Nam Company Limited
 
