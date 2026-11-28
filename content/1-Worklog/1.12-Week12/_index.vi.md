@@ -1,58 +1,35 @@
 ---
 title: "Worklog Tuần 12"
-date: 2024-01-01
-weight: 2
+date: 2026-11-30
+publishDate: 2026-11-27
+weight: 12
 chapter: false
-pre: " <b> 1.12 </b> "
+pre: " <b> 1.12. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
-### Mục tiêu tuần 12:
+# Tổng kết và nộp báo cáo thực tập
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+**Thời gian:** 30/11/2026
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+**Trạng thái:** Dự kiến thực hiện.
 
+### Mục tiêu tuần 12
 
-### Kết quả đạt được tuần 12:
+- Hoàn thiện báo cáo và tổng kết kiến thức, kinh nghiệm tích lũy trong quá trình thực tập.
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+### Các công việc trong tuần
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+| Thứ | Công việc | Ngày bắt đầu (phân bổ) | Ngày hoàn thành (phân bổ) | Nguồn tài liệu |
+|---|---|---|---|---|
+| 2 | Tổng kết các nhiệm vụ nghiên cứu và phát triển AI trong dự án BrandTracker. | 30/11/2026 | 30/11/2026 (dự kiến) | — |
+| 2 | Rà soát nội dung, hình ảnh, tài liệu tham khảo và các phần song ngữ của báo cáo. | 30/11/2026 | 30/11/2026 (dự kiến) | — |
+| 2 | Hoàn thiện và nộp báo cáo thực tập theo yêu cầu. | 30/11/2026 | 30/11/2026 (dự kiến) | — |
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+### Kết quả dự kiến
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+- Hoàn thiện báo cáo thực tập.
+- Tổng hợp kiến thức AWS, NLP, Machine Learning, RAG và Generative AI.
+- Đánh giá kiến thức, kỹ năng tích lũy và định hướng phát triển.
+- Nộp báo cáo đúng thời hạn.
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
-
+*Các mốc ngày là phân bổ phục vụ báo cáo; nội dung nghiên cứu không đồng nghĩa với việc đã triển khai hoặc nghiệm thu mô hình production.*

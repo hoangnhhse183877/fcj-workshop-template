@@ -1,59 +1,37 @@
 ---
 title: "Worklog Tuần 4"
-date: 2024-01-01
-weight: 1
+date: 2026-10-05
+weight: 4
 chapter: false
 pre: " <b> 1.4. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
+# Nghiên cứu NLP và xử lý dữ liệu tiếng Việt
 
-### Mục tiêu tuần 4:
+**Thời gian:** 05/10/2026 – 11/10/2026
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+### Mục tiêu tuần 4
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+- Nghiên cứu phương pháp giúp AI hiểu tiếng Việt trên mạng xã hội.
 
+### Các công việc trong tuần
 
-### Kết quả đạt được tuần 4:
+| Thứ | Công việc | Ngày bắt đầu (phân bổ) | Ngày hoàn thành (phân bổ) | Nguồn tài liệu |
+|---|---|---|---|---|
+| 2 | Nghiên cứu đặc điểm ngôn ngữ tiếng Việt trong bài viết và bình luận mạng xã hội. | 05/10/2026 | 05/10/2026 | `vietnamese-comment-intelligence.vi.md` |
+| 3 | Tìm hiểu ViSoLex và ViLexNorm để nghiên cứu phương pháp chuẩn hóa văn bản. | 06/10/2026 | 06/10/2026 | `vietnamese-comment-intelligence.vi.md` |
+| 4 | Nghiên cứu ViGoEmotions và ViSoBERT phục vụ phân tích cảm xúc và văn bản tiếng Việt. | 07/10/2026 | 07/10/2026 | `vietnamese-comment-intelligence.vi.md` |
+| 5 | Nghiên cứu chuẩn hóa teencode, từ viết tắt, emoji và từ phủ định. | 08/10/2026 | 08/10/2026 | `vietnamese-comment-intelligence.vi.md` |
+| 6 | Rà soát câu hỏi, giả định, phản hồi ngắn và bình luận phụ thuộc ngữ cảnh. | 09/10/2026 | 09/10/2026 | `vietnamese-comment-intelligence.vi.md` |
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+### Kết quả hướng đến
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+- Hiểu đặc điểm dữ liệu tiếng Việt phi chuẩn.
+- Nắm phương pháp chuẩn hóa văn bản trước khi phân tích.
+- Hiểu nguyên tắc bảo toàn văn bản gốc để trích dẫn bằng chứng.
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+### Tài liệu tham khảo
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+- `vietnamese-comment-intelligence.vi.md`
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
-
+*Các mốc ngày là phân bổ phục vụ báo cáo; nội dung nghiên cứu không đồng nghĩa với việc đã triển khai hoặc nghiệm thu mô hình production.*

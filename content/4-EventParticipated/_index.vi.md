@@ -1,46 +1,67 @@
 ---
 title: "Các events đã tham gia"
-date: 2024-01-01
+date: 2026-11-27
 weight: 4
 chapter: false
 pre: " <b> 4. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+Phần này tổng hợp các sự kiện em đã tham gia, cùng những kiến thức và kinh nghiệm tích lũy được.
 
-> Trong phần này, các bạn cần liệt kê và mô tả chi tiết các sự kiện (event) mà mình đã tham gia trong suốt quá trình thực tập hoặc làm việc. 
-> 
-> Mỗi sự kiện nên được trình bày theo định dạng Event 1, Event 2, Event 3…, kèm theo các thông tin:
-> * Tên sự kiện
-> * Thời gian tổ chức
-> * Địa điểm (nếu có)
-> * Vai trò của bạn trong sự kiện (người tham dự, hỗ trợ tổ chức, diễn giả, v.v.)
-> * Mô tả ngắn gọn nội dung và hoạt động chính trong sự kiện
-> * Kết quả hoặc giá trị đạt được (bài học, kỹ năng mới, đóng góp cho nhóm/dự án)
-> * Việc liệt kê này giúp thể hiện rõ sự tham gia thực tế của bạn, cũng như các kỹ năng mềm và kinh nghiệm bạn đã tích lũy qua từng sự kiện.
+### [Event 1 – AWS Cloud & AI Day Vietnam 2026 – Watch Party](4.1-Event1/)
 
+**Tên sự kiện:** AWS Cloud & AI Day Vietnam 2026 – Watch Party
 
-Trong quá trình thực tập, em đã tham gia 2 events, với mỗi event là một trải nghiệm đáng nhớ với những kiến thức mới, hay và bổ ích, cùng với đó là nhứng món quà và những khoảnh khắc rất tuyệt vời.
+**Ngày tổ chức:** 29/09/2026
 
-### [Event 1](4.1-Event1/)
-&emsp;**Tên sự kiện:** GenAI-powered App-DB Modernization workshop
+**Địa điểm:** Văn phòng AWS tại TP. Hồ Chí Minh, Việt Nam
 
-&emsp;**Thời gian:** 09:00 ngày 13/08/2025
+**Vai trò:** Người tham dự
 
-&emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
+**Hình thức:** Watch Party
 
-&emsp;**Vai trò trong sự kiện:** Người tham dự 
+**Chủ đề chính:** Cloud Computing, Generative AI, Agentic AI và phát triển phần mềm có sự hỗ trợ của AI.
 
+**Website chính thức:** [AWS Cloud and AI Day](https://aws.amazon.com/vi/events/cloud-day-hanoi/)
 
+[Xem bài thu hoạch Event 1](4.1-Event1/)
 
-### [Event 2](4.2-Event2/)
-&emsp;**Tên sự kiện:** GenAI-powered App-DB Modernization workshop
+---
 
-&emsp;**Thời gian:** 09:00 ngày 13/08/2025
+### [Event 2 – Fireside Chat with Dr. Werner](4.2-Event2/)
 
-&emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
+**Tên sự kiện:** Fireside Chat with Dr. Werner
 
-&emsp;**Vai trò trong sự kiện:** Người tham dự 
+**Chủ đề:** Navigating the Future of Cloud & AI in Vietnam
 
+**Thời gian:** 08:30–12:00 ngày 02/10/2026 (GMT+7)
+
+**Địa điểm:** Tầng 26, Bitexco Financial Tower, số 2 Hải Triều, phường Sài Gòn, TP. Hồ Chí Minh, Việt Nam
+
+**Vai trò:** Người tham dự
+
+**Diễn giả:** Dr. Werner Vogels, VP & CTO, Amazon
+
+**Trang sự kiện:** [Fireside Chat with Dr. Werner](https://luma.com/j4y481jz)
+
+[Xem bài thu hoạch Event 2](4.2-Event2/)
+
+---
+
+### [Event 3 – AWS Student Community Day Vietnam 2026](4.3-Event3/)
+
+**Tên sự kiện:** AWS Student Community Day Vietnam 2026
+
+**Thời gian:** 09:00–11:30 ngày 21/11/2026 (GMT+7), theo nội dung thông báo của ban tổ chức
+
+**Địa điểm:** Tầng 26, Bitexco Financial Tower, số 2 Hải Triều, phường Sài Gòn, TP. Hồ Chí Minh, Việt Nam
+
+**Đơn vị tổ chức:** AWS Student Builder Groups Vietnam (HUFLIT, HCMUTE, PTIT và SGU)
+
+**Vai trò:** Người tham dự
+
+**Chủ đề chính:** Cloud Computing, Artificial Intelligence và học tập thông qua cộng đồng.
+
+**Trang sự kiện:** [AWS Student Community Day Vietnam 2026](https://www.meetup.com/aws-sbg-at-hcmc-univ-of-foreign-languages-and-info-tech/events/317238332/)
+
+[Xem bài thu hoạch Event 3](4.3-Event3/)

@@ -1,125 +1,137 @@
 ---
 title: "Event 2"
-date: 2024-01-01
-weight: 1
+date: 2026-10-02
+weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+# Fireside Chat with Dr. Werner
 
-# Bài thu hoạch “GenAI-powered App-DB Modernization workshop”
+## 1. Thông tin sự kiện
 
-### Mục Đích Của Sự Kiện
+| Thông tin | Nội dung |
+|---|---|
+| Tên sự kiện | Fireside Chat with Dr. Werner |
+| Chủ đề | Navigating the Future of Cloud & AI in Vietnam |
+| Ngày tổ chức | Thứ Sáu, 02/10/2026 |
+| Thời gian | 08:30 – 12:00 (GMT+7) |
+| Địa điểm | Tầng 26, Bitexco Financial Tower |
+| Địa chỉ | Số 2 Hải Triều, phường Sài Gòn, TP. Hồ Chí Minh |
+| Người tổ chức trên Luma | Huỳnh Hoàng Long |
+| Đơn vị xuất hiện trên poster | AWS, First Cloud AI Journey và Amazon |
+| Hình thức | Fireside Chat – Trò chuyện chuyên đề |
+| Vai trò | Người tham dự (Attendee) |
+| Trang sự kiện | [Fireside Chat with Dr. Werner](https://luma.com/j4y481jz) |
 
-- Chia sẻ best practices trong thiết kế ứng dụng hiện đại
-- Giới thiệu phương pháp DDD và event-driven architecture
-- Hướng dẫn lựa chọn compute services phù hợp
-- Giới thiệu công cụ AI hỗ trợ development lifecycle
+## 2. Mục đích của sự kiện
 
-### Danh Sách Diễn Giả
+Sự kiện Fireside Chat with Dr. Werner được tổ chức nhằm tạo cơ hội cho sinh viên, nhà phát triển phần mềm, kiến trúc sư hệ thống, kỹ sư và những người quan tâm đến công nghệ được tiếp cận những góc nhìn về tương lai của điện toán đám mây và trí tuệ nhân tạo.
 
-- **Jignesh Shah** - Director, Open Source Databases
-- **Erica Liu** - Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** - Assc. Specialist SA, Serverless Amazon Web Services
+- Tiếp cận góc nhìn và kinh nghiệm từ Giám đốc Công nghệ của Amazon.
+- Tìm hiểu tương lai của Cloud Computing và Artificial Intelligence.
+- Học hỏi kinh nghiệm xây dựng và vận hành hệ thống ở quy mô toàn cầu.
+- Khám phá các xu hướng công nghệ và chuyển đổi số tại Việt Nam.
+- Phát triển tư duy đổi mới sáng tạo và giải quyết vấn đề.
+- Mở rộng định hướng học tập và phát triển nghề nghiệp trong lĩnh vực công nghệ.
 
-### Nội Dung Nổi Bật
+## 3. Diễn giả
 
-#### Đưa ra các ảnh hưởng tiêu cực của kiến trúc ứng dụng cũ
+**Dr. Werner Vogels** – Vice President & Chief Technology Officer (VP & CTO), Amazon.
 
-- Thời gian release sản phẩm lâu → Mất doanh thu/bỏ lỡ cơ hội
-- Hoạt động kém hiệu quả → Mất năng suất, tốn kém chi phí
-- Không tuân thủ các quy định về bảo mật → Mất an ninh, uy tín
+Ông là một nhà lãnh đạo công nghệ có ảnh hưởng lớn, đồng thời là người tiên phong trong lĩnh vực điện toán đám mây, với nhiều kinh nghiệm xây dựng và vận hành các hệ thống công nghệ ở quy mô toàn cầu.
 
-#### Chuyển đổi sang kiến trúc ứng dụng mới - Microservice Architecture
+## 4. Nội dung và kiến thức nổi bật
 
-Chuyển đổi thành hệ thống modular – từng chức năng là một **dịch vụ độc lập** giao tiếp với nhau qua **sự kiện** với 3 trụ cột cốt lõi:
+Các nội dung kỹ thuật dưới đây được tổng hợp từ chủ đề công bố của sự kiện và diễn giải thêm các kiến thức liên quan, không phải bản ghi nguyên văn lời chia sẻ của diễn giả.
 
-- **Queue Management**: Xử lý tác vụ bất đồng bộ
-- **Caching Strategy:** Tối ưu performance
-- **Message Handling:** Giao tiếp linh hoạt giữa services
+### 4.1. Tương lai của Cloud Computing
 
-#### Domain-Driven Design (DDD)
+Điện toán đám mây ngày càng đóng vai trò quan trọng trong quá trình chuyển đổi số và phát triển các hệ thống công nghệ hiện đại.
 
-- **Phương pháp 4 bước**: Xác định domain events → sắp xếp timeline → identify actors → xác định bounded contexts
-- **Case study bookstore**: Minh họa cách áp dụng DDD thực tế
-- **Context mapping**: 7 patterns tích hợp bounded contexts
+Cloud Computing giúp doanh nghiệp và nhà phát triển tiếp cận nguồn tài nguyên công nghệ linh hoạt, giảm bớt sự phụ thuộc vào cơ sở hạ tầng vật lý và nâng cao khả năng triển khai ứng dụng.
 
-#### Event-Driven Architecture
+Những khía cạnh quan trọng của điện toán đám mây bao gồm khả năng mở rộng hệ thống, tối ưu chi phí, tự động hóa cơ sở hạ tầng, đảm bảo độ tin cậy và triển khai ứng dụng trên quy mô toàn cầu.
 
-- **3 patterns tích hợp**: Publish/Subscribe, Point-to-point, Streaming
-- **Lợi ích**: Loose coupling, scalability, resilience
-- **So sánh sync vs async**: Hiểu rõ trade-offs (sự đánh đổi)
+### 4.2. Tương lai của Artificial Intelligence
 
-#### Compute Evolution
+Trí tuệ nhân tạo đang mở ra nhiều cơ hội mới trong phát triển phần mềm, phân tích dữ liệu, tự động hóa công việc và nâng cao trải nghiệm người dùng.
 
-- **Shared Responsibility Model**: Từ EC2 → ECS → Fargate → Lambda
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value
-- **Functions vs Containers**: Criteria lựa chọn phù hợp
+Sự kết hợp giữa AI và Cloud Computing tạo điều kiện cho các tổ chức phát triển những hệ thống thông minh, có khả năng xử lý dữ liệu và thích nghi với nhu cầu thực tế.
 
-#### Amazon Q Developer
+Mối liên hệ minh họa: Cloud Computing cung cấp hạ tầng và tài nguyên cho phân tích dữ liệu và AI; các công nghệ này hỗ trợ xây dựng ứng dụng thông minh và thúc đẩy chuyển đổi số.
 
-- **SDLC automation**: Từ planning đến maintenance
-- **Code transformation**: Java upgrade, .NET modernization
-- **AWS Transform agents**: VMware, Mainframe, .NET migration
+### 4.3. Xây dựng hệ thống ở quy mô toàn cầu
 
-### Những Gì Học Được
+Việc xây dựng và vận hành các hệ thống phục vụ số lượng lớn người dùng đòi hỏi kiến trúc phần mềm phải đáp ứng nhiều yêu cầu về hiệu suất, độ ổn định, bảo mật và khả năng mở rộng.
 
-#### Tư Duy Thiết Kế
+| Kiến thức | Ý nghĩa |
+|---|---|
+| Scalability | Khả năng mở rộng hệ thống |
+| High Availability | Đảm bảo tính sẵn sàng cao |
+| Distributed Systems | Xây dựng hệ thống phân tán |
+| Fault Tolerance | Khả năng chịu lỗi |
+| Reliability | Đảm bảo độ tin cậy |
+| Performance | Tối ưu hiệu suất hệ thống |
+| Security | Bảo mật hệ thống và dữ liệu |
 
-- **Business-first approach**: Luôn bắt đầu từ business domain, không phải technology
-- **Ubiquitous language**: Importance của common vocabulary giữa business và tech teams
-- **Bounded contexts**: Cách identify và manage complexity trong large systems
+Đây là những nguyên tắc quan trọng có thể áp dụng khi thiết kế và phát triển các hệ thống phần mềm hiện đại.
 
-#### Kiến Trúc Kỹ Thuật
+### 4.4. Innovation – Tư duy đổi mới sáng tạo
 
-- **Event storming technique**: Phương pháp thực tế để mô hình hóa quy trình kinh doanh
-- Sử dụng **Event-driven communication** thay vì synchronous calls
-- **Integration patterns**: Hiểu khi nào dùng sync, async, pub/sub, streaming
-- **Compute spectrum**: Criteria chọn từ VM → containers → serverless
+Đổi mới sáng tạo không chỉ nằm ở việc sử dụng các công nghệ mới mà còn ở khả năng xác định vấn đề, lựa chọn giải pháp phù hợp và tạo ra giá trị thực tế cho người dùng.
 
-#### Chiến Lược Hiện Đại Hóa
+Tư duy đổi mới giúp sinh viên và nhà phát triển nâng cao khả năng giải quyết vấn đề, chủ động học hỏi và thích nghi trước những thay đổi nhanh chóng của công nghệ.
 
-- **Phased approach**: Không rush, phải có roadmap rõ ràng
-- **7Rs framework**: Nhiều con đường khác nhau tùy thuộc vào đặc điểm của mỗi ứng dụng
-- **ROI measurement**: Cost reduction + business agility
+### 4.5. Technology Leadership – Lãnh đạo công nghệ
 
-### Ứng Dụng Vào Công Việc
+Bên cạnh kiến thức chuyên môn, tư duy lãnh đạo và tầm nhìn công nghệ cũng đóng vai trò quan trọng trong quá trình phát triển nghề nghiệp.
 
-- **Áp dụng DDD** cho project hiện tại: Event storming sessions với business team
-- **Refactor microservices**: Sử dụng bounded contexts để identify service boundaries
-- **Implement event-driven patterns**: Thay thế một số sync calls bằng async messaging
-- **Serverless adoption**: Pilot AWS Lambda cho một số use cases phù hợp
-- **Try Amazon Q Developer**: Integrate vào development workflow để boost productivity
+Những yếu tố cần chú trọng bao gồm khả năng học hỏi liên tục, tư duy dài hạn, tinh thần trách nhiệm, khả năng làm việc nhóm và đưa ra quyết định phù hợp trong quá trình phát triển sản phẩm.
 
-### Trải nghiệm trong event
+Đối với sinh viên ngành công nghệ, việc tiếp cận những kinh nghiệm và góc nhìn từ các nhà lãnh đạo công nghệ có thể giúp hình thành định hướng phát triển bản thân rõ ràng hơn.
 
-Tham gia workshop **“GenAI-powered App-DB Modernization”** là một trải nghiệm rất bổ ích, giúp tôi có cái nhìn toàn diện về cách hiện đại hóa ứng dụng và cơ sở dữ liệu bằng các phương pháp và công cụ hiện đại. Một số trải nghiệm nổi bật:
+## 5. Những kiến thức và bài học rút ra
 
-#### Học hỏi từ các diễn giả có chuyên môn cao
-- Các diễn giả đến từ AWS và các tổ chức công nghệ lớn đã chia sẻ **best practices** trong thiết kế ứng dụng hiện đại.
-- Qua các case study thực tế, tôi hiểu rõ hơn cách áp dụng **Domain-Driven Design (DDD)** và **Event-Driven Architecture** vào các project lớn.
+| Khía cạnh | Kiến thức và bài học |
+|---|---|
+| Cloud Computing | Hiểu rõ hơn vai trò của điện toán đám mây trong phát triển công nghệ |
+| Artificial Intelligence | Nhận thức được tiềm năng ứng dụng AI trong tương lai |
+| System Design | Hiểu tầm quan trọng của khả năng mở rộng và độ tin cậy của hệ thống |
+| Innovation | Phát triển tư duy đổi mới và giải quyết vấn đề |
+| Technology Leadership | Nhận thức được vai trò của tầm nhìn và trách nhiệm trong công việc |
+| Continuous Learning | Hiểu được tầm quan trọng của việc học hỏi và cập nhật kiến thức liên tục |
+| Career Development | Mở rộng định hướng phát triển nghề nghiệp trong lĩnh vực công nghệ |
 
-#### Trải nghiệm kỹ thuật thực tế
-- Tham gia các phiên trình bày về **event storming** giúp tôi hình dung cách **mô hình hóa quy trình kinh doanh** thành các domain events.
-- Học cách **phân tách microservices** và xác định **bounded contexts** để quản lý sự phức tạp của hệ thống lớn.
-- Hiểu rõ trade-offs giữa **synchronous và asynchronous communication** cũng như các pattern tích hợp như **pub/sub, point-to-point, streaming**.
+## 6. Ứng dụng vào công việc
 
-#### Ứng dụng công cụ hiện đại
-- Trực tiếp tìm hiểu về **Amazon Q Developer**, công cụ AI hỗ trợ SDLC từ lập kế hoạch đến maintenance.
-- Học cách **tự động hóa code transformation** và pilot serverless với **AWS Lambda**, từ đó nâng cao năng suất phát triển.
+| Kiến thức | Khả năng ứng dụng |
+|---|---|
+| Cloud Computing | Xây dựng và triển khai ứng dụng trên AWS |
+| Artificial Intelligence | Phát triển các dự án AI và Machine Learning |
+| Distributed Systems | Thiết kế hệ thống phần mềm phân tán |
+| Scalability | Xây dựng ứng dụng có khả năng mở rộng |
+| Reliability | Nâng cao độ ổn định của hệ thống |
+| Innovation | Đề xuất các giải pháp mới cho bài toán thực tế |
+| Technology Leadership | Phát triển kỹ năng quản lý và làm việc nhóm |
+| Continuous Learning | Chủ động nghiên cứu và tiếp cận công nghệ mới |
 
-#### Kết nối và trao đổi
-- Workshop tạo cơ hội trao đổi trực tiếp với các chuyên gia, đồng nghiệp và team business, giúp **nâng cao ngôn ngữ chung (ubiquitous language)** giữa business và tech.
-- Qua các ví dụ thực tế, tôi nhận ra tầm quan trọng của **business-first approach**, luôn bắt đầu từ nhu cầu kinh doanh thay vì chỉ tập trung vào công nghệ.
+Những kiến thức và kinh nghiệm từ sự kiện có thể trở thành nền tảng để tiếp tục phát triển các dự án học tập, nghiên cứu và công việc trong tương lai, đặc biệt trong lĩnh vực trí tuệ nhân tạo và điện toán đám mây.
 
-#### Bài học rút ra
-- Việc áp dụng DDD và event-driven patterns giúp giảm **coupling**, tăng **scalability** và **resilience** cho hệ thống.
-- Chiến lược hiện đại hóa cần **phased approach** và đo lường **ROI**, không nên vội vàng chuyển đổi toàn bộ hệ thống.
-- Các công cụ AI như Amazon Q Developer có thể **boost productivity** nếu được tích hợp vào workflow phát triển hiện tại.
+## 7. Trải nghiệm và cảm nhận cá nhân
 
-#### Một số hình ảnh khi tham gia sự kiện
-* Thêm các hình ảnh của các bạn tại đây
-> Tổng thể, sự kiện không chỉ cung cấp kiến thức kỹ thuật mà còn giúp tôi thay đổi cách tư duy về thiết kế ứng dụng, hiện đại hóa hệ thống và phối hợp hiệu quả hơn giữa các team.
+Thông qua cơ hội được gặp gỡ và lắng nghe những chia sẻ từ Dr. Werner Vogels, em đã tiếp thu thêm nhiều kiến thức bổ ích và kinh nghiệm quý báu trong lĩnh vực công nghệ.
+
+Sự kiện không chỉ giúp em mở rộng kiến thức về điện toán đám mây và trí tuệ nhân tạo mà còn mang đến những góc nhìn mới về quá trình học tập, phát triển bản thân và định hướng nghề nghiệp trong tương lai.
+
+Những kiến thức và kinh nghiệm tích lũy được từ sự kiện là hành trang quý giá, giúp em có thêm động lực, sự tự tin và nền tảng để vững bước hơn trên con đường học tập cũng như làm việc sau này.
+
+## 8. Hình ảnh minh chứng tham gia sự kiện
+
+![Ảnh minh chứng tham dự Fireside Chat with Dr. Werner tại Bitexco Financial Tower](/images/events/event2/event2-fireside-chat.jpg)
+
+*Hình 1. Tham gia sự kiện Fireside Chat with Dr. Werner tại tầng 26, Bitexco Financial Tower, TP. Hồ Chí Minh, ngày 02/10/2026. Nguồn: ảnh cá nhân.*
+
+## 9. Tài liệu tham khảo
+
+- [Fireside Chat with Dr. Werner](https://luma.com/j4y481jz)

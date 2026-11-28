@@ -1,59 +1,44 @@
 ---
 title: "Worklog Tuần 11"
-date: 2024-01-01
-weight: 2
+date: 2026-11-23
+weight: 11
 chapter: false
 pre: " <b> 1.11. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
+# Đánh giá, kiểm thử và tối ưu hệ thống AI
 
-### Mục tiêu tuần 11:
+**Thời gian:** 23/11/2026 – 29/11/2026
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+### Mục tiêu tuần 11
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+- Nghiên cứu đánh giá chất lượng AI, tối ưu hiệu năng và chi phí, rà soát hạn chế BrandTracker và hoàn thiện bài Blog AWS.
 
+### Các công việc trong tuần
 
-### Kết quả đạt được tuần 11:
+| Thứ | Công việc | Ngày bắt đầu (phân bổ) | Ngày hoàn thành (phân bổ) | Nguồn tài liệu |
+|---|---|---|---|---|
+| 2 | Nghiên cứu tiêu chí đánh giá chất lượng truy hồi, phân tích và tổng hợp dữ liệu của AI. | 23/11/2026 | 23/11/2026 | `research-quality-evaluation.vi.md`; `paired-synthesis-evaluation.vi.md`; `incremental-extraction-reuse.vi.md`; `research-history-cache.vi.md` |
+| 3 | Nghiên cứu A/B Evaluation và phương pháp kiểm thử chất lượng kết quả phân tích. | 24/11/2026 | 24/11/2026 | `research-quality-evaluation.vi.md`; `paired-synthesis-evaluation.vi.md`; `incremental-extraction-reuse.vi.md`; `research-history-cache.vi.md` |
+| 4 | Nghiên cứu Incremental Extraction, AI Cache và Embedding Cache để giảm xử lý dữ liệu trùng lặp. | 25/11/2026 | 25/11/2026 | `research-quality-evaluation.vi.md`; `paired-synthesis-evaluation.vi.md`; `incremental-extraction-reuse.vi.md`; `research-history-cache.vi.md` |
+| 5 | Nghiên cứu tối ưu Token, chi phí gọi mô hình AI và rà soát hạn chế hệ thống. | 26/11/2026 | 26/11/2026 | `research-quality-evaluation.vi.md`; `paired-synthesis-evaluation.vi.md`; `incremental-extraction-reuse.vi.md`; `research-history-cache.vi.md` |
+| 6 | Hoàn thiện và đăng Blog Amazon S3 trên cộng đồng AWS, tổng hợp các bài viết của nhóm. | 27/11/2026 | 27/11/2026 | [Blog 1](https://www.facebook.com/groups/awsstudygroupfcj/posts/2350947399003552/) |
+| 7 | Dự kiến rà soát tài liệu kỹ thuật và tổng hợp các công việc AI đã thực hiện. | 28/11/2026 | 28/11/2026 (dự kiến) | `research-quality-evaluation.vi.md`; `paired-synthesis-evaluation.vi.md`; `incremental-extraction-reuse.vi.md`; `research-history-cache.vi.md` |
+| CN | Dự kiến kiểm tra và hoàn thiện nội dung báo cáo thực tập. | 29/11/2026 | 29/11/2026 (dự kiến) | `research-quality-evaluation.vi.md`; `paired-synthesis-evaluation.vi.md`; `incremental-extraction-reuse.vi.md`; `research-history-cache.vi.md` |
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+### Kết quả hướng đến
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+- Nắm phương pháp đánh giá chất lượng AI.
+- Hiểu phương pháp tối ưu hiệu năng và chi phí xử lý.
+- Xác định hạn chế và hướng cải thiện hệ thống.
+- Hoàn thành bài Blog chia sẻ kiến thức AWS.
+- Dự kiến tổng hợp nội dung nghiên cứu AI phục vụ báo cáo.
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+### Tài liệu tham khảo
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+- `research-quality-evaluation.vi.md`
+- `paired-synthesis-evaluation.vi.md`
+- `incremental-extraction-reuse.vi.md`
+- `research-history-cache.vi.md`
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
-
+*Các mốc ngày là phân bổ phục vụ báo cáo; nội dung nghiên cứu không đồng nghĩa với việc đã triển khai hoặc nghiệm thu mô hình production.*

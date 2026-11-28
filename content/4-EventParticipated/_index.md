@@ -1,44 +1,67 @@
 ---
 title: "Events Participated"
-date: 2024-01-01
+date: 2026-11-27
 weight: 4
 chapter: false
 pre: " <b> 4. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** for your report, including this warning.
-{{% /notice %}}
+This section records the events I attended and the knowledge and experience gained from them.
 
-> In this section, you should list and describe in detail the events you have participated in during your internship or work experience.  
-> 
-> Each event should be presented in the format Event 1, Event 2, Event 3…, along with the following details:
-> * Event name
-> * Date and time
-> * Location (if applicable)
-> * Your role in the event (attendee, event support, speaker, etc.)
-> * A brief description of the event’s content and main activities
-> * Outcomes or value gained (lessons learned, new skills, contribution to the team/project)
-> * This listing helps demonstrate your actual participation as well as the soft skills and experience you have gained from each event.
+### [Event 1 – AWS Cloud & AI Day Vietnam 2026 – Watch Party](4.1-Event1/)
 
-During my internship, I participated in two events. Each one was a memorable experience that provided new, interesting, and useful knowledge, along with gifts and wonderful moments.
+**Event Name:** AWS Cloud & AI Day Vietnam 2026 – Watch Party
 
-### [Event 1](4.1-Event1/)  
-&emsp;**Event Name:** GenAI-powered App-DB Modernization workshop  
+**Date:** September 29, 2026
 
-&emsp;**Date & Time:** 09:00, August 13, 2025  
+**Location:** AWS office, Ho Chi Minh City, Vietnam
 
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
+**Role:** Attendee
 
-&emsp;**Role:** Attendee  
+**Format:** Watch Party
+
+**Main topics:** Cloud Computing, Generative AI, Agentic AI, and AI-assisted software development.
+
+**Official event website:** [AWS Cloud and AI Day](https://aws.amazon.com/vi/events/cloud-day-hanoi/)
+
+[Read the full Event 1 report](4.1-Event1/)
 
 ---
 
-### [Event 2](4.2-Event2/)  
-&emsp;**Event Name:** GenAI-powered App-DB Modernization workshop  
+### [Event 2 – Fireside Chat with Dr. Werner](4.2-Event2/)
 
-&emsp;**Date & Time:** 09:00, August 13, 2025  
+**Event Name:** Fireside Chat with Dr. Werner
 
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
+**Theme:** Navigating the Future of Cloud & AI in Vietnam
 
-&emsp;**Role:** Attendee  
+**Date & Time:** October 2, 2026, 08:30–12:00 (GMT+7)
+
+**Location:** 26th floor, Bitexco Financial Tower, 2 Hai Trieu Street, Saigon Ward, Ho Chi Minh City, Vietnam
+
+**Role:** Attendee
+
+**Speaker:** Dr. Werner Vogels, VP & CTO, Amazon
+
+**Official event page:** [Fireside Chat with Dr. Werner](https://luma.com/j4y481jz)
+
+[Read the full Event 2 report](4.2-Event2/)
+
+---
+
+### [Event 3 – AWS Student Community Day Vietnam 2026](4.3-Event3/)
+
+**Event Name:** AWS Student Community Day Vietnam 2026
+
+**Date & Time:** November 21, 2026, 09:00–11:30 (GMT+7), according to the organizer's event description
+
+**Location:** 26th floor, Bitexco Financial Tower, 2 Hai Trieu Street, Saigon Ward, Ho Chi Minh City, Vietnam
+
+**Organizers:** AWS Student Builder Groups Vietnam (HUFLIT, HCMUTE, PTIT, and SGU)
+
+**Role:** Attendee
+
+**Main topics:** Cloud Computing, Artificial Intelligence, and community learning.
+
+**Official event page:** [AWS Student Community Day Vietnam 2026](https://www.meetup.com/aws-sbg-at-hcmc-univ-of-foreign-languages-and-info-tech/events/317238332/)
+
+[Read the full Event 3 report](4.3-Event3/)
